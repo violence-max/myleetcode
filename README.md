@@ -10,4 +10,4 @@
 ### matrixt  
 [顺时针打印矩阵](/basical/matrix/clockwiseprintmatrix.md)  
 ## dynamic_programming     
-[最大子数组之和]
+[最大子数组之和](/dynamic_programming/code/tmsofcsuba.md)  
