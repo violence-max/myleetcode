@@ -3,7 +3,11 @@
 估计还是会跟leetcode主页一样对题目进行分类吧，有关分类如果有更新会进行一个新的提交。  
 这次有一些不一样的想法，就是可以把一道比较tricky的题目如果有自己的想法但是没有实现可以添加到另外一个分支里面然后等着以后如果有精力有想法再去实现。  
 # 分类  
-## 基本类  
+* [基本类](#basical)  
+* [动态规划](#dynamic_programming)  
+## basical  
 [矩阵](#matrixt)  
 ### matrixt  
 [顺时针打印矩阵](/basical/matrix/clockwiseprintmatrix.md)  
+## dynamic_programming     
+[最大子数组之和]
