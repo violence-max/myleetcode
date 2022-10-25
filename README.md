@@ -17,5 +17,6 @@
 [二叉树](binary_tree)  
 ### stack
 [包含min函数的栈](/basicaldatastructure/stack/code/minincluedinstack.md)  
+[栈的压入、弹出序列](/basicaldatastructure/stack/code/pushandpopofastack.md)  
 ### binary_tree
 [树的子结构](/basicaldatastructure/binary_tree/code/substructureoftree.md)  
