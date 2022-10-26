@@ -23,3 +23,4 @@
 [树的子结构](/basicaldatastructure/binary_tree/code/substructureoftree.md)  
 ### array
 [二分查找](/basicaldatastructure/array/code/binarysearch.md)  
+[搜索插入位置](/basicaldatastructure/array/code/searchinsertposition.md)  
