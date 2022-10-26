@@ -6,6 +6,7 @@
 * [基本类](#basical)  
 * [动态规划](#dynamic_programming)  
 * [基本数据结构](#basical_data_structure)  
+* [排序](#sort)  
 ## basical  
 * [矩阵](#matrixt)  
 ### matrixt  
@@ -26,3 +27,5 @@
 2. [搜索插入位置](/basicaldatastructure/array/code/searchinsertposition.md)  
 3. [在排序数组中查找元素的第一个和最后一个位置](/basicaldatastructure/array/code/firstandlastpositionofbinarysearch.md)  
 4. [数组中重复的元素](/basicaldatastructure/array/code/binarysearch.md)  
+### sort
+1. [归并排序](/sort/code/mergesort.md)  
