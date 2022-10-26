@@ -24,3 +24,4 @@
 ### array
 [二分查找](/basicaldatastructure/array/code/binarysearch.md)  
 [搜索插入位置](/basicaldatastructure/array/code/searchinsertposition.md)  
+[在排序数组中查找元素的第一个和最后一个位置](/basicaldatastructure/array/code/firstandlastpositionofbinarysearch.md)  
