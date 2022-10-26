@@ -9,19 +9,20 @@
 ## basical  
 * [矩阵](#matrixt)  
 ### matrixt  
-[顺时针打印矩阵](/basical/matrix/clockwiseprintmatrix.md)  
+1. [顺时针打印矩阵](/basical/matrix/clockwiseprintmatrix.md)  
 ## dynamic_programming     
-[最大子数组之和](/dynamic_programming/code/tmsofcsuba.md)  
+1. [最大子数组之和](/dynamic_programming/code/tmsofcsuba.md)  
 ## basical_data_structure  
 * [栈](stack)  
 * [二叉树](binary_tree)  
 * [数组](array)  
 ### stack
-[包含min函数的栈](/basicaldatastructure/stack/code/minincluedinstack.md)  
-[栈的压入、弹出序列](/basicaldatastructure/stack/code/pushandpopofastack.md)  
+1. [包含min函数的栈](/basicaldatastructure/stack/code/minincluedinstack.md)  
+2. [栈的压入、弹出序列](/basicaldatastructure/stack/code/pushandpopofastack.md)  
 ### binary_tree
-[树的子结构](/basicaldatastructure/binary_tree/code/substructureoftree.md)  
+1. [树的子结构](/basicaldatastructure/binary_tree/code/substructureoftree.md)  
 ### array
-[二分查找](/basicaldatastructure/array/code/binarysearch.md)  
-[搜索插入位置](/basicaldatastructure/array/code/searchinsertposition.md)  
-[在排序数组中查找元素的第一个和最后一个位置](/basicaldatastructure/array/code/firstandlastpositionofbinarysearch.md)  
+1. [二分查找](/basicaldatastructure/array/code/binarysearch.md)  
+2. [搜索插入位置](/basicaldatastructure/array/code/searchinsertposition.md)  
+3. [在排序数组中查找元素的第一个和最后一个位置](/basicaldatastructure/array/code/firstandlastpositionofbinarysearch.md)  
+4. [数组中重复的元素](/basicaldatastructure/array/code/binarysearch.md)  
