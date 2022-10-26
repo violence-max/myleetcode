@@ -7,14 +7,14 @@
 * [动态规划](#dynamic_programming)  
 * [基本数据结构](#basical_data_structure)  
 ## basical  
-[矩阵](#matrixt)  
+* [矩阵](#matrixt)  
 ### matrixt  
 [顺时针打印矩阵](/basical/matrix/clockwiseprintmatrix.md)  
 ## dynamic_programming     
 [最大子数组之和](/dynamic_programming/code/tmsofcsuba.md)  
 ## basical_data_structure  
-[栈](stack)  
-[二叉树](binary_tree)  
+* [栈](stack)  
+* [二叉树](binary_tree)  
 ### stack
 [包含min函数的栈](/basicaldatastructure/stack/code/minincluedinstack.md)  
 [栈的压入、弹出序列](/basicaldatastructure/stack/code/pushandpopofastack.md)  
