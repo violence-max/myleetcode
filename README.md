@@ -29,3 +29,4 @@
 4. [数组中重复的元素](/basicaldatastructure/array/code/binarysearch.md)  
 ### sort
 1. [归并排序](/sort/code/mergesort.md)  
+2. [堆排序](/sort/code/heapsort.md)  
