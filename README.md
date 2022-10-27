@@ -30,3 +30,4 @@
 ### sort
 1. [归并排序](/sort/code/mergesort.md)  
 2. [堆排序](/sort/code/heapsort.md)  
+3. [快速排序](/sort/code/quicksort.md)  
