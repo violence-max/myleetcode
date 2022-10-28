@@ -27,6 +27,7 @@
 2. [搜索插入位置](/basicaldatastructure/array/code/searchinsertposition.md)  
 3. [在排序数组中查找元素的第一个和最后一个位置](/basicaldatastructure/array/code/firstandlastpositionofbinarysearch.md)  
 4. [数组中重复的元素](/basicaldatastructure/array/code/binarysearch.md)  
+5. [x的平方根](/basicaldatastructure/array/code/xssqurt.md)  
 ### sort
 1. [归并排序](/sort/code/mergesort.md)  
 2. [堆排序](/sort/code/heapsort.md)  
