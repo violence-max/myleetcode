@@ -1,5 +1,5 @@
 题目描述：  
-![image](/basicaldatastructure/array/image/image10.png)
+![image](/basical/array/image/image10.png)
 解题过程：  
 思想过程很简单，直接找到正负数之间的分界线，然后把数组所有数据平方，最后像归并排序一样从中间往两头走  
 官方题解有一个双指针，一头一尾直接比较的方法很nice  

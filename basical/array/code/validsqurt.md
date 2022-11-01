@@ -1,5 +1,5 @@
 题目描述：  
-![image1](/basicaldatastructure/array/image/image6.png)
+![image1](/basical/array/image/image6.png)
 解题过程：经典二分法，不想多说  
 ```cpp
 class Solution {

@@ -1,5 +1,5 @@
 题目描述：  
-![image1](/basicaldatastructure/array/image/image1.png)
+![image1](/basical/array/image/image1.png)
 解题过程：经典思路，不想说了  
 代码：（改用c++了）  
 ```cpp

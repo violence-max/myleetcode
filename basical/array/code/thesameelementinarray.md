@@ -1,5 +1,5 @@
 题目描述：  
-![image1](/basicaldatastructure/array/image/image4.png)
+![image1](/basical/array/image/image4.png)
 解题过程：  
 这个是做过的题目，很简单，就是把每个位置上的元素放回到原来的位置，如果原来的位置已经存在了该元素则说明该元素是重复的，然后返回就行了  
 代码：  

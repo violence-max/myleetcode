@@ -1,5 +1,5 @@
 题目描述：  
-![image](/sort/image/image1.png)
+![image](/basical/sort/image/image1.png)
 解题过程：  
 经典快速排序：先随机数分成左右两边排好序，然后排左边和右边  
 代码：  

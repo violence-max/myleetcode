@@ -1,5 +1,5 @@
 题目描述：
-![image](/basicaldatastructure/array/image/image5.png)
+![image](/basical/array/image/image5.png)
 解题过程：  
 方法一：袖珍计算器  
 使用表达式`exp(0.5 * log(x))` 来代替x的平方根符号，再对结果进行微处理即可，因为浮点数存储得不精确，有可能答案和结果相差非常小，但是结果小于答案，而我们的返回值取的是整数，所以会有返回值比正确值小1的情况  

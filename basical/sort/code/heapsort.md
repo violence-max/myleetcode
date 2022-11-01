@@ -1,5 +1,5 @@
 题目描述：  
-![image1](/sort/image/image2.png)
+![image1](/basical/sort/image/image1.png)
 解题过程：  
 经典堆排序：建堆、选择堆，调整堆  
 代码：  
