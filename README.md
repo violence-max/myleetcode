@@ -2,7 +2,7 @@
 目前的题量大概在三十道题左右，刷得比较杂，也没有做分类，就想着记录一下自己刷题得过程吧，打算把之前刷过得题目再刷一遍，这样子好分类，而且之前没有总结，做完了就完了，很容易忘，特别是那些花了两个小时都没有做出来的题目真的应该好好总结一下。  
 估计还是会跟leetcode主页一样对题目进行分类吧，有关分类如果有更新会进行一个新的提交。  
 这次有一些不一样的想法，就是可以把一道比较tricky的题目如果有自己的想法但是没有实现可以添加到另外一个分支里面然后等着以后如果有精力有想法再去实现。  
-**总题量：18**
+**总题量：19**
 # 分类  
 * [基本类](#basical)  
 * [动态规划](#dynamic_programming)  
@@ -17,15 +17,16 @@
 ### string  
 1. [比较含退格的字符串](/basical/string/code/comparestringwithoutspace.md)  
 ### array  
-1. [二分查找](/basicaldatastructure/array/code/binarysearch.md)  
-2. [搜索插入位置](/basicaldatastructure/array/code/searchinsertposition.md)  
-3. [在排序数组中查找元素的第一个和最后一个位置](/basicaldatastructure/array/code/firstandlastpositionofbinarysearch.md)  
-4. [数组中重复的元素](/basicaldatastructure/array/code/binarysearch.md)  
-5. [x的平方根](/basicaldatastructure/array/code/xssqurt.md)  
-6. [有效的完全平方数有](/basicaldatastructure/array/code/validsqurt.md)  
-7. [移除元素](/basicaldatastructure/array/code/removeitems.md)  
-8. [移除相同的元素](/basicaldatastructure/array/code/removethesameitems.md)  
-9. [移动零](/basicaldatastructure/array/code/removezero.md)  
+1.  [二分查找](/basicaldatastructure/array/code/binarysearch.md)  
+2.  [搜索插入位置](/basicaldatastructure/array/code/searchinsertposition.md)  
+3.  [在排序数组中查找元素的第一个和最后一个位置](/basicaldatastructure/array/code/firstandlastpositionofbinarysearch.md)  
+4.  [数组中重复的元素](/basicaldatastructure/array/code/binarysearch.md)  
+5.  [x的平方根](/basicaldatastructure/array/code/xssqurt.md)  
+6.  [有效的完全平方数有](/basicaldatastructure/array/code/validsqurt.md)  
+7.  [移除元素](/basicaldatastructure/array/code/removeitems.md)  
+8.  [移除相同的元素](/basicaldatastructure/array/code/removethesameitems.md)  
+9.  [移动零](/basicaldatastructure/array/code/removezero.md)  
+10. [有序数组的平方](/basicaldatastructure/array/code/sortedarrayssqurt.md)  
 ### sort
 1. [归并排序](/sort/code/mergesort.md)  
 2. [堆排序](/sort/code/heapsort.md)  
