@@ -2,7 +2,7 @@
 目前的题量大概在三十道题左右，刷得比较杂，也没有做分类，就想着记录一下自己刷题得过程吧，打算把之前刷过得题目再刷一遍，这样子好分类，而且之前没有总结，做完了就完了，很容易忘，特别是那些花了两个小时都没有做出来的题目真的应该好好总结一下。  
 估计还是会跟leetcode主页一样对题目进行分类吧，有关分类如果有更新会进行一个新的提交。  
 这次有一些不一样的想法，就是可以把一道比较tricky的题目如果有自己的想法但是没有实现可以添加到另外一个分支里面然后等着以后如果有精力有想法再去实现。  
-**总题量：37**
+**总题量：38**
 # 分类  
 * [基本类](#basical)  
 * [动态规划](#dynamic_programming)  
@@ -37,7 +37,8 @@
 12. [水果成篮](/basical/array/code/fruit.md)  
 13. [两个数组的交集](/basical/array/code/intersectionoftwoarray.md)  
 14. [两数之和](/basical/array/code/twosum.md)  
-15. [四数相加](/basical/array/code/foursumcount.md)
+15. [四数相加](/basical/array/code/foursumcount.md)  
+16. [三数之和](/basical/array/code/threesum.md)  
 ### sort
 1. [归并排序](/basical/sort/code/mergesort.md)  
 2. [堆排序](/basical/sort/code/heapsort.md)  
