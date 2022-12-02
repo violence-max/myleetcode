@@ -150,3 +150,4 @@
 8.  [分发糖果](/algorithmn/greed/code/distributecandy.md)  
 9.  [柠檬水找零](/algorithmn/greed/code/lemonadechange.md)  
 10. [重建队列](/algorithmn/greed/code/reconstructqueue.md)  
+11. [用最少的箭射爆最多的气球](/algorithmn/greed/code/findminarrowshots.md)  
