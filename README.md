@@ -2,7 +2,7 @@
 目前的题量大概在三十道题左右，刷得比较杂，也没有做分类，就想着记录一下自己刷题得过程吧，打算把之前刷过得题目再刷一遍，这样子好分类，而且之前没有总结，做完了就完了，很容易忘，特别是那些花了两个小时都没有做出来的题目真的应该好好总结一下。  
 估计还是会跟leetcode主页一样对题目进行分类吧，有关分类如果有更新会进行一个新的提交。  
 这次有一些不一样的想法，就是可以把一道比较tricky的题目如果有自己的想法但是没有实现可以添加到另外一个分支里面然后等着以后如果有精力有想法再去实现。  
-**总题量：127**
+**总题量：128**
 # 分类  
 * [基本类](#basical)  
 * [基本数据结构](#basical_data_structure)  
@@ -125,6 +125,7 @@
 1. [最大子数组之和](/algorithmn//dynamic_programming/code/tmsofcsuba.md)  
 2. [斐波那契数列](/algorithmn/greed/code/fib.md)  
 3. [爬楼梯](/algorithmn/dynamic_programming/code/climbstairs.md)  
+4. [最小花费爬楼梯](/algorithmn/dynamic_programming/code/mincostclimbstairs.md)  
 ### traceback
 1.  [组合](/algorithmn/tracebak/code/combine.md)  
 2.  [组合总和](/algorithmn/tracebak/code/combinesum.md)  
@@ -158,4 +159,4 @@
 14. [合并区间](/algorithmn/greed/code/merge.md)  
 15. [单调递增数字](/algorithmn/greed/code/increasedigits.md)  
 16. [买卖股票的最佳时机II](/algorithmn/greed/code/maxprofitII.md)  
-17. [检控二叉树](/algorithmn/greed/code/mincameracover.md)  
+17. [监控二叉树](/algorithmn/greed/code/mincameracover.md)  
