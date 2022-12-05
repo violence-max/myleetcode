@@ -2,7 +2,7 @@
 目前的题量大概在三十道题左右，刷得比较杂，也没有做分类，就想着记录一下自己刷题得过程吧，打算把之前刷过得题目再刷一遍，这样子好分类，而且之前没有总结，做完了就完了，很容易忘，特别是那些花了两个小时都没有做出来的题目真的应该好好总结一下。  
 估计还是会跟leetcode主页一样对题目进行分类吧，有关分类如果有更新会进行一个新的提交。  
 这次有一些不一样的想法，就是可以把一道比较tricky的题目如果有自己的想法但是没有实现可以添加到另外一个分支里面然后等着以后如果有精力有想法再去实现。  
-**总题量：136**
+**总题量：137**
 # 分类  
 * [基本类](#basical)  
 * [基本数据结构](#basical_data_structure)  
@@ -134,6 +134,7 @@
 10. [最后一块石头II](/algorithmn/dynamic_programming/code/laststoneweightII.md)  
 11. [目标和](/algorithmn/dynamic_programming/image/image11.png)  
 12. [一和零](/algorithmn/dynamic_programming/code/findmaxforms.md)  
+13. [零钱兑换II](/algorithmn/dynamic_programming/code/change.md)  
 ### traceback
 1.  [组合](/algorithmn/tracebak/code/combine.md)  
 2.  [组合总和](/algorithmn/tracebak/code/combinesum.md)  
