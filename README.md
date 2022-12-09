@@ -2,7 +2,7 @@
 目前的题量大概在三十道题左右，刷得比较杂，也没有做分类，就想着记录一下自己刷题得过程吧，打算把之前刷过得题目再刷一遍，这样子好分类，而且之前没有总结，做完了就完了，很容易忘，特别是那些花了两个小时都没有做出来的题目真的应该好好总结一下。  
 估计还是会跟leetcode主页一样对题目进行分类吧，有关分类如果有更新会进行一个新的提交。  
 这次有一些不一样的想法，就是可以把一道比较tricky的题目如果有自己的想法但是没有实现可以添加到另外一个分支里面然后等着以后如果有精力有想法再去实现。  
-**总题量：159**
+**总题量：160**
 # 分类  
 * [基本类](#basical)  
 * [基本数据结构](#basical_data_structure)  
@@ -60,15 +60,16 @@
 * [二叉树](binary_tree)
 * [链表](linkedlist)    
 ### stackandquere
-1. [包含min函数的栈](/basicaldatastructure/stack/code/minincluedinstack.md)  
-2. [栈的压入、弹出序列](/basicaldatastructure/stack/code/pushandpopofastack.md)  
-3. [用栈实现队列](/basicaldatastructure/stack/code/implementquerebystack.md)  
-4. [用队列实现栈](/basicaldatastructure/stackandquere/image/image4.png)  
-5. [有效的括号位](/basicaldatastructure/stackandquere/image/image5.png)  
-6. [删除字符串中重复的字符](/basicaldatastructure/stackandquere/code/removethesamecharacterinastring.md)  
-7. [逆波兰表达式](/basicaldatastructure/stackandquere/code/reversepolishexpressiongs.md)  
-8. [求长度为k的滑动窗口的最大值](/basicaldatastructure/stackandquere/code/themaxnuminawindowofk.md)  
-9. [前k个高频元素](/basicaldatastructure/stackandquere/code/thetopkfrequent.md)  
+1.  [包含min函数的栈](/basicaldatastructure/stack/code/minincluedinstack.md)  
+2.  [栈的压入、弹出序列](/basicaldatastructure/stack/code/pushandpopofastack.md)  
+3.  [用栈实现队列](/basicaldatastructure/stack/code/implementquerebystack.md)  
+4.  [用队列实现栈](/basicaldatastructure/stackandquere/image/image4.png)  
+5.  [有效的括号位](/basicaldatastructure/stackandquere/image/image5.png)  
+6.  [删除字符串中重复的字符](/basicaldatastructure/stackandquere/code/removethesamecharacterinastring.md)  
+7.  [逆波兰表达式](/basicaldatastructure/stackandquere/code/reversepolishexpressiongs.md)  
+8.  [求长度为k的滑动窗口的最大值](/basicaldatastructure/stackandquere/code/themaxnuminawindowofk.md)  
+9.  [前k个高频元素](/basicaldatastructure/stackandquere/code/thetopkfrequent.md)  
+10. [每日温度](/basicaldatastructure/stackandquere/code/dailytempratrues.md)  
 ### binary_tree
 1.  [树的子结构](/basicaldatastructure/binary_tree/code/substructureoftree.md)  
 2.  [前序遍历](/basicaldatastructure/binary_tree/code/preordertraversal.md)  
