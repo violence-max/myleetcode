@@ -13,6 +13,7 @@
 * [排序](#sort)  
 * [智力题](#IQ)  
 ### matrixt  
+*  [总结](/conclusion/matrixt.md)  
 1. [顺时针打印矩阵](/basical/matrix/clockwiseprintmatrix.md)  
 2. [螺旋矩阵II](/basical/matrix/code/generatematrix.md)  
 3. [螺旋矩阵I](/basical/matrix/code/spiralorder.md)  
