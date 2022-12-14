@@ -40,6 +40,7 @@
 19. [罗马转整数](/basical/string/code/romtoin.md)  
 20. [最长公共前缀](/basical/string/code/longestcommonprefix.md)  
 ### array  
+*   [总结](/conclusion/array.md)  
 1.  [二分查找](/basical/array/code/binarysearch.md)  
 2.  [搜索插入位置](/basical/array/code/searchinsertposition.md)  
 3.  [在排序数组中查找元素的第一个和最后一个位置](/basical/array/code/firstandlastpositionofbinarysearch.md)  
