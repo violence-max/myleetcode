@@ -64,6 +64,7 @@
 20. [删除每行中的最大值](/basical/array/code/deletegreatesvalue.md)  
 21. [盛最多水的容器](/basical/array/code/maxarea.md)  
 22. [最接近的三数之和](/basical/array/code/threesunclosest.md)  
+23. [通过连接另一个数组的子数组得到一个数组](/basical/array/code/canchose.md)  
 ### sort
 1. [归并排序](/basical/sort/code/mergesort.md)  
 2. [堆排序](/basical/sort/code/heapsort.md)  
