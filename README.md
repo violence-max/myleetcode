@@ -1,7 +1,7 @@
 **记录在leetcode上刷题的点点滴滴**  
 终于，刷leetcode的时间来到了几乎快一个月，这一个月里也做了快两百题了。  
 按照我学习的一贯思路，在学习的初期基本上是野蛮生长，只管大量的给自己灌输知识，不去温习刚刚学过的知识或者去做一些旧题重做之类的事情。但是，总结是非常必要的，在现在这么一个阶段，我需要巩固自己已经学习过的大量知识，把做题时见到过的各种方法都给复习一遍，保证自己再做的时候5分钟之内能想到对应方法然后开始动笔。    
-**总题量：185**
+**总题量：186**
 # 分类  
 * [基本类](#basical)  
 * [基本数据结构](#basical_data_structure)  
@@ -135,15 +135,16 @@
 38. [将有序数组转换为二叉搜索树](/basicaldatastructure/binary_tree/code/sortedarraytobst.md)  
 39. [将二叉搜索树转换为累加树](/basicaldatastructure/binary_tree/code/convertbsttosum.md)  
 ### linkedlist
-1. [移除链表元素](/basicaldatastructure/linkedlist/code/removeelementsoflinkedlist.md)  
-2. [设计链表](/basicaldatastructure/linkedlist/code/designlinkedlist.md)  
-3. [反转链表](/basicaldatastructure/linkedlist/code/reverselinkedlist.md)  
-4. [两两交换链表中的数](/basicaldatastructure/linkedlist/code/swappairs.md)  
-5. [删除链表中倒数第N个结点](/basicaldatastructure/linkedlist/code/removeNthFromEnd.md)  
-6. [获取两个链表的相交结点](/basicaldatastructure/linkedlist/code/getintersectionnode.md)  
-7. [环形链表](/basicaldatastructure/linkedlist/code/circlelinkedlist.md)  
-8. [合并两个升序链表](/basicaldatastructure/linkedlist/code/mergetwolist.md)  
-9. [合并k个升序链表](/basicaldatastructure/linkedlist/code/mergeklists.md)  
+1.  [移除链表元素](/basicaldatastructure/linkedlist/code/removeelementsoflinkedlist.md)  
+2.  [设计链表](/basicaldatastructure/linkedlist/code/designlinkedlist.md)  
+3.  [反转链表](/basicaldatastructure/linkedlist/code/reverselinkedlist.md)  
+4.  [两两交换链表中的数](/basicaldatastructure/linkedlist/code/swappairs.md)  
+5.  [删除链表中倒数第N个结点](/basicaldatastructure/linkedlist/code/removeNthFromEnd.md)  
+6.  [获取两个链表的相交结点](/basicaldatastructure/linkedlist/code/getintersectionnode.md)  
+7.  [环形链表](/basicaldatastructure/linkedlist/code/circlelinkedlist.md)  
+8.  [合并两个升序链表](/basicaldatastructure/linkedlist/code/mergetwolist.md)  
+9.  [合并k个升序链表](/basicaldatastructure/linkedlist/code/mergeklists.md)  
+10. [K个一组翻转链表](/basicaldatastructure/linkedlist/code/reversekgroup.md)  
 ## algorithmn  
 * [动态规划](#dynamic_programming)  
 * [回溯](#traceback)   
