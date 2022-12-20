@@ -1,7 +1,7 @@
 **记录在leetcode上刷题的点点滴滴**  
 终于，刷leetcode的时间来到了几乎快一个月，这一个月里也做了快两百题了。  
 按照我学习的一贯思路，在学习的初期基本上是野蛮生长，只管大量的给自己灌输知识，不去温习刚刚学过的知识或者去做一些旧题重做之类的事情。但是，总结是非常必要的，在现在这么一个阶段，我需要巩固自己已经学习过的大量知识，把做题时见到过的各种方法都给复习一遍，保证自己再做的时候5分钟之内能想到对应方法然后开始动笔。    
-**总题量：197**
+**总题量：198**
 # 分类  
 * [基本类](#basical)  
 * [基本数据结构](#basical_data_structure)  
@@ -233,3 +233,4 @@
 15. [单调递增数字](/algorithmn/greed/code/increasedigits.md)  
 16. [买卖股票的最佳时机II](/algorithmn/greed/code/maxprofitII.md)  
 17. [监控二叉树](/algorithmn/greed/code/mincameracover.md)  
+18. [移除石子的最大得分](/algorithmn/greed/code/maximumscore.md)  
