@@ -1,6 +1,7 @@
 **记录在leetcode上刷题的点点滴滴**  
 终于，刷leetcode的时间来到了几乎快一个月，这一个月里也做了快两百题了。  
 按照我学习的一贯思路，在学习的初期基本上是野蛮生长，只管大量的给自己灌输知识，不去温习刚刚学过的知识或者去做一些旧题重做之类的事情。但是，总结是非常必要的，在现在这么一个阶段，我需要巩固自己已经学习过的大量知识，把做题时见到过的各种方法都给复习一遍，保证自己再做的时候5分钟之内能想到对应方法然后开始动笔。    
+**对于经典算法必须详细地记录算法步骤**
 **总题量：200**
 # 分类  
 * [基本类](#basical)  
@@ -51,7 +52,7 @@
 3.  [在排序数组中查找元素的第一个和最后一个位置](/basical/array/code/firstandlastpositionofbinarysearch.md)  
 4.  [数组中重复的元素](/basical/array/code/binarysearch.md)  
 5.  [x的平方根](/basical/array/code/xssqurt.md)  
-6.  [有效的完全平方数有](/basical/array/code/validsqurt.md)  
+6.  [有效的完全平方数](/basical/array/code/validsqurt.md)  
 7.  [移除元素](/basical/array/code/removeitems.md)  
 8.  [移除相同的元素](/basical/array/code/removethesameitems.md)  
 9.  [移动零](/basical/array/code/removezero.md)  
