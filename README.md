@@ -86,7 +86,8 @@
 26. [袋子里最少数目的球](/basical/array/code/minimumsize.md)   
 27. [缺失的第一个正数](/basical/array/code/firstmissingpositive.md)  
 28. [插入区间](/basical/array/code/insert.md)  
-29. [加一](/basical/array/image/image29.png)  
+29. [加一](/basical/array/code/plusone.md)  
+30. [至少在两个数组中出现的值](/basical/array/code/twooutofthree.md)
 ### sort
 1. [归并排序](/basical/sort/code/mergesort.md)  
 2. [堆排序](/basical/sort/code/heapsort.md)  
