@@ -2,7 +2,7 @@
 终于，刷leetcode的时间来到了几乎快一个月，这一个月里也做了快两百题了。  
 按照我学习的一贯思路，在学习的初期基本上是野蛮生长，只管大量的给自己灌输知识，不去温习刚刚学过的知识或者去做一些旧题重做之类的事情。但是，总结是非常必要的，在现在这么一个阶段，我需要巩固自己已经学习过的大量知识，把做题时见到过的各种方法都给复习一遍，保证自己再做的时候5分钟之内能想到对应方法然后开始动笔。    
 **对于经典算法必须详细地记录算法步骤**
-**总题量：225**
+**总题量：226**
 # 分类  
 * [基本类](#basical)  
 * [基本数据结构](#basical_data_structure)  
@@ -100,15 +100,16 @@
 1. [检查边长度限制的路径是否存在](/basical/gragh/code/distancelimitedpathexit.md)  
 2. [寻找图中是否存在路径](/basical/gragh/code/validpath.md)  
 ### IQ
-1. [快乐数](/basical/IQ/code/happynumber.md)  
-2. [整数反转](/basical/IQ/code/reverse.md)  
-3. [构成特定和需要添加的最少元素](/basical/IQ/code/minelement.md)  
-4. [两数相除](/basical/IQ/code/divide.md)  
-5. [下一个排列](/basical/IQ/code/nextpermutation.md)  
-6. [有效数独](/basical/IQ/code/isvalidsudu.md)  
-7. [幂函数](/basical/IQ/code/pow.md)  
-8. [放置盒子](/basical/IQ/code/minimumboxes.md)  
-9. [排列序列](/basical/IQ/code/getpermutation.md)  
+1.  [快乐数](/basical/IQ/code/happynumber.md)  
+2.  [整数反转](/basical/IQ/code/reverse.md)  
+3.  [构成特定和需要添加的最少元素](/basical/IQ/code/minelement.md)  
+4.  [两数相除](/basical/IQ/code/divide.md)  
+5.  [下一个排列](/basical/IQ/code/nextpermutation.md)  
+6.  [有效数独](/basical/IQ/code/isvalidsudu.md)  
+7.  [幂函数](/basical/IQ/code/pow.md)  
+8.  [放置盒子](/basical/IQ/code/minimumboxes.md)  
+9.  [排列序列](/basical/IQ/code/getpermutation.md)  
+10. [统计异或值在范围内的数对有多少](/basical/IQ/code/countpairs.md)
 ## basical_data_structure  
 * [栈](stackandquere)  
 * [二叉树](binary_tree)
