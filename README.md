@@ -2,7 +2,7 @@
 终于，刷leetcode的时间来到了几乎快一个月，这一个月里也做了快两百题了。  
 按照我学习的一贯思路，在学习的初期基本上是野蛮生长，只管大量的给自己灌输知识，不去温习刚刚学过的知识或者去做一些旧题重做之类的事情。但是，总结是非常必要的，在现在这么一个阶段，我需要巩固自己已经学习过的大量知识，把做题时见到过的各种方法都给复习一遍，保证自己再做的时候5分钟之内能想到对应方法然后开始动笔。    
 **对于经典算法必须详细地记录算法步骤**
-**总题量：236**
+**总题量：237**
 # 分类  
 * [基本类](#basical)  
 * [基本数据结构](#basical_data_structure)  
@@ -121,9 +121,9 @@
 12. [积压订单中的订单总数](/basical/IQ/code/getnumberofbacklogorders.md)
 13. [第一个出现两次的字母](/basical/IQ/code/repeatedcharacter.md)
 ## basical_data_structure  
-* [栈](stackandquere)  
-* [二叉树](binary_tree)
-* [链表](linkedlist)    
+* [栈](#stackandquere)  
+* [二叉树](#binary_tree)
+* [链表](#linkedlist)    
 ### stackandquere
 1.  [包含min函数的栈](/basicaldatastructure/stack/code/minincluedinstack.md)  
 2.  [栈的压入、弹出序列](/basicaldatastructure/stack/code/pushandpopofastack.md)  
@@ -191,6 +191,7 @@
 9.  [合并k个升序链表](/basicaldatastructure/linkedlist/code/mergeklists.md)  
 10. [K个一组翻转链表](/basicaldatastructure/linkedlist/code/reversekgroup.md)  
 11. [旋转链表](/basicaldatastructure/linkedlist/code/rotateright.md)  
+12. [删除排序链表中的重复元素II](/basicaldatastructure/linkedlist/code/deleteduplicates.md)
 ## algorithmn  
 * [动态规划](#dynamic_programming)  
 * [回溯](#traceback)   
