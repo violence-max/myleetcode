@@ -2,7 +2,7 @@
 终于，刷leetcode的时间来到了几乎快一个月，这一个月里也做了快两百题了。  
 按照我学习的一贯思路，在学习的初期基本上是野蛮生长，只管大量的给自己灌输知识，不去温习刚刚学过的知识或者去做一些旧题重做之类的事情。但是，总结是非常必要的，在现在这么一个阶段，我需要巩固自己已经学习过的大量知识，把做题时见到过的各种方法都给复习一遍，保证自己再做的时候5分钟之内能想到对应方法然后开始动笔。    
 **对于经典算法必须详细地记录算法步骤**
-**总题量：239**
+**总题量：240**
 # 分类  
 * [基本类](#basical)  
 * [基本数据结构](#basical_data_structure)  
@@ -140,6 +140,7 @@
 12. [下一个最大元素II](/basicaldatastructure/stackandquere/code/nextgenerateelements.md)  
 14. [接雨水](/basicaldatastructure/stackandquere/code/trap.md)  
 15. [柱状图中的最大矩形](/basicaldatastructure/stackandquere/code/largestrectanglearea.md)  
+16. [最大矩形](/basicaldatastructure/stackandquere/code/maximalrectangle.md)
 ### binary_tree
 1.  [树的子结构](/basicaldatastructure/binary_tree/code/substructureoftree.md)  
 2.  [前序遍历](/basicaldatastructure/binary_tree/code/preordertraversal.md)  
@@ -202,13 +203,13 @@
 1.  [最大子数组之和](/algorithmn//dynamic_programming/code/tmsofcsuba.md)  
 2.  [斐波那契数列](/algorithmn/greed/code/fib.md)  
 3.  [爬楼梯](/algorithmn/dynamic_programming/code/climbstairs.md)  
-4.  [最小花费爬楼梯](/algorithmn/dynamic_programming/code/mincostclimbstairs.md)  
+4.  [使用最小花费爬楼梯](/algorithmn/dynamic_programming/code/mincostclimbstairs.md)  
 5.  [不同路径](/algorithmn/dynamic_programming/code/uniquepath.md)  
 6.  [不同路径II](/algorithmn/dynamic_programming/code/uniquepathII.md)  
 7.  [整数拆分](/algorithmn/dynamic_programming/code/intergerbreak.md)  
-8.  [二叉搜索树的个数](/algorithmn/dynamic_programming/code/numbsttrees.md)  
-9.  [分割子集和](/algorithmn/dynamic_programming/code/canpartition.md)  
-10. [最后一块石头II](/algorithmn/dynamic_programming/code/laststoneweightII.md)  
+8.  [不同的二叉搜索树](/algorithmn/dynamic_programming/code/numbsttrees.md)  
+9.  [分割等和子集](/algorithmn/dynamic_programming/code/canpartition.md)  
+10. [最后一块石头的重量II](/algorithmn/dynamic_programming/code/laststoneweightII.md)  
 11. [目标和](/algorithmn/dynamic_programming/image/image11.png)  
 12. [一和零](/algorithmn/dynamic_programming/code/findmaxforms.md)  
 13. [零钱兑换II](/algorithmn/dynamic_programming/code/change.md)  
@@ -219,11 +220,11 @@
 18. [打家劫舍](/algorithmn/dynamic_programming/code/rob.md)  
 19. [打家劫舍II](/algorithmn/dynamic_programming/code/robII.md)  
 20. [打家劫舍III](/algorithmn/dynamic_programming/code/robIII.md)  
-21. [股票买卖问题](/algorithmn/dynamic_programming/code/maxprofit.md)  
-22. [股票买卖问题III](/algorithmn/dynamic_programming/code/maxprofitIII.md)  
-23. [股票买卖问题IV](/algorithmn/dynamic_programming/code/maxprofitIV.md)  
-24. [股票买卖问题VV](/algorithmn/dynamic_programming/code/maxprofitV.md)  
-25. [最长上升子序列](/algorithmn/dynamic_programming/code/lengthoflis.md)  
+21. [股票买卖的最佳时机](/algorithmn/dynamic_programming/code/maxprofit.md)  
+22. [股票买卖的最佳时机III](/algorithmn/dynamic_programming/code/maxprofitIII.md)  
+23. [股票买卖的最佳时机IV](/algorithmn/dynamic_programming/code/maxprofitIV.md)  
+24. [最佳买卖股票时机含冷冻期](/algorithmn/dynamic_programming/code/maxprofitV.md)  
+25. [最长递增子序列](/algorithmn/dynamic_programming/code/lengthoflis.md)  
 26. [最长连续递增子序列](/algorithmn/dynamic_programming/code/findlengthoflcis.md)  
 27. [最长公共子数组](/algorithmn/dynamic_programming/code/findlength.md)  
 28. [最长公共子序列](/algorithmn/dynamic_programming/code/longestcommonsubsequence.md)  
@@ -232,7 +233,7 @@
 31. [不同的子序列](/algorithmn/dynamic_programming/code/numdistinct.md)  
 32. [两个字符串的删除操作](/algorithmn/dynamic_programming/code/mindistance.md)  
 33. [编辑距离](/algorithmn/dynamic_programming/code/mindistanceII.md)  
-34. [回文子串的个数](/algorithmn/dynamic_programming/code/countsubstring.md)  
+34. [回文子串](/algorithmn/dynamic_programming/code/countsubstring.md)  
 35. [最长回文子序列](/algorithmn/dynamic_programming/code/longestpalindromesubseq.md)  
 36. [堆叠长方体的最大高度](/algorithmn/dynamic_programming/code/maxheight.md)  
 37. [正则表达式的匹配](/algorithmn/dynamic_programming/code/ismatched.md)  
