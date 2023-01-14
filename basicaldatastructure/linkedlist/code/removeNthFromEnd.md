@@ -1,5 +1,5 @@
 题目描述：  
-![image](/basicaldatastructure/linkedlist/code/removeNthFromEnd.md)
+![image](/basicaldatastructure/linkedlist/image/image5.png)
 解题过程：  
 直接计算链表长度然后移动length-n次就找到要删除的那个结点了，然后记录了前结点，改变一下指针指向就完事了。看了题解发现这个方法的名字叫链表长度法，而且把获取链表长度的方法封装起来了。我做这个方法的时候还是想得很周到的，把一些可能失败的情况都给解决掉了。题解里面还有另外两个方法，栈方法啊，还有双指针法啊，都挺不错的。  
 代码：  

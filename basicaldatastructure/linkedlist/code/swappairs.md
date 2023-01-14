@@ -1,5 +1,5 @@
 题目描述：  
-![image](/basicaldatastructure/linkedlist/code/swappairs.md)  
+![image](/basicaldatastructure/linkedlist/image/image4.png)  
 解题过程：  
 一开始直接用迭代的思想去写这个题了，用了三个指针，一个pre，一个cur，一个tail，三个结点不断更改指针指向直到尾结点为空就退出循环就好了。看了题解看到了一种递归的方法，强无敌。  
 代码：  
