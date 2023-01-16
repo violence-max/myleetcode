@@ -2,7 +2,7 @@
 终于，刷leetcode的时间来到了几乎快一个月，这一个月里也做了快两百题了。  
 按照我学习的一贯思路，在学习的初期基本上是野蛮生长，只管大量的给自己灌输知识，不去温习刚刚学过的知识或者去做一些旧题重做之类的事情。但是，总结是非常必要的，在现在这么一个阶段，我需要巩固自己已经学习过的大量知识，把做题时见到过的各种方法都给复习一遍，保证自己再做的时候5分钟之内能想到对应方法然后开始动笔。    
 **对于经典算法必须详细地记录算法步骤**
-**总题量：250**
+**总题量：251**
 # 分类  
 * [基本类](#basical)  
 * [基本数据结构](#basical_data_structure)  
@@ -187,6 +187,7 @@
 37. [修剪二叉树](/basicaldatastructure/binary_tree/code/trimbst.md)  
 38. [将有序数组转换为二叉搜索树](/basicaldatastructure/binary_tree/code/sortedarraytobst.md)  
 39. [将二叉搜索树转换为累加树](/basicaldatastructure/binary_tree/code/convertbsttosum.md)  
+40. [不同的二叉搜索树II](/basicaldatastructure/binary_tree/code/generatetree.md)
 ### linkedlist
 1.  [移除链表元素](/basicaldatastructure/linkedlist/code/removeelementsoflinkedlist.md)  
 2.  [设计链表](/basicaldatastructure/linkedlist/code/designlinkedlist.md)  
