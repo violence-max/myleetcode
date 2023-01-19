@@ -1,7 +1,5 @@
-题目描述：
-
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/dbd3e393-c129-4b7d-9052-3981b2a44cf4/Untitled.png)
-
+题目描述：  
+![Untitled](/basical/string/image/image44.png)  
 解题过程：  
 sb题目，这么费时间，coding了一个多小时，提交失败了整整9次才结束这该死的题目，由于我是用模拟的方法来做的因此有n种情况我没有考虑到，难受啊。  
 算法流程：（模拟）  

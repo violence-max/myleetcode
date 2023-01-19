@@ -1,5 +1,5 @@
 题目描述：  
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/955deeac-ce5f-4d23-8d98-618c83be7063/Untitled.png)  
+![image](/basical/string/image/image24.png)  
 解决过程：  
 直接一个递归就解决了，一次过，舒胡  
 代码：  

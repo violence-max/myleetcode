@@ -1,5 +1,5 @@
 题目描述：  
-![image](/basical/string/code/ransommoneyletter.md)  
+![image](/basical/string/image/image4.png)  
 解题过程：  
 这个题太简单了，不想说了，就是建两个哈希表然后比较一下次数的问题，跟按个字母异位词差不多，或者说一模一样。唯一值得注意的是官方的解法，先是用长度判读进行提前处理，然后是用一个额外的数组记录字母出现的次数，记录的方式也很新颖，用的是一个api：toCharArray()和ASCLL字母相减法。  
 代码：  

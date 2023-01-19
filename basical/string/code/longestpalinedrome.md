@@ -1,5 +1,5 @@
 题目描述：  
-![image](/basical/string/code/longestpalinedrome.md)  
+![image](/basical/string/image/image12.png)  
 解题过程：  
 根本不会。  
 看了题解，有三种方法，动态规划，中心扩展和Manacher算法。  
