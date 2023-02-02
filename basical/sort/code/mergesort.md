@@ -1,5 +1,5 @@
 题目描述：  
-![image1](/basical/sort/image/image1.png)
+![image1](/basical/sort/image/image1.png)  
 解题过程：  
 简单的归并排序，注意递归语句的调用，以及用额外空间来保存排好序的值的思想  
 代码：  
