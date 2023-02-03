@@ -2,7 +2,7 @@
 终于，刷leetcode的时间来到了几乎快一个月，这一个月里也做了快两百题了。  
 按照我学习的一贯思路，在学习的初期基本上是野蛮生长，只管大量的给自己灌输知识，不去温习刚刚学过的知识或者去做一些旧题重做之类的事情。但是，总结是非常必要的，在现在这么一个阶段，我需要巩固自己已经学习过的大量知识，把做题时见到过的各种方法都给复习一遍，保证自己再做的时候5分钟之内能想到对应方法然后开始动笔。    
 **对于经典算法必须详细地记录算法步骤**
-**总题量：321**
+**总题量：322**
 # 分类  
 * [基本类](#basical)  
 * [基本数据结构](#basical_data_structure)  
@@ -172,6 +172,7 @@
 * [二叉树](#binary_tree)
 * [链表](#linkedlist)    
 * [集合与键值对](#setandmap)
+* [前缀树](#trie)
 ### stackandquere
 1.  [包含min函数的栈](/basicaldatastructure/stack/code/minincluedinstack.md)  
 2.  [栈的压入、弹出序列](/basicaldatastructure/stack/code/pushandpopofastack.md)  
@@ -266,6 +267,8 @@
 4. [最长连续序列](/basicaldatastructure/setandmap/code/longestconsecutive.md)
 5. [直线上最多的点数](/basicaldatastructure/setandmap/code/maxpoints.md)
 6. [两数之和III](/basicaldatastructure/setandmap/code/twosumIII.md)
+### trie
+1. [实现前缀树](/basicaldatastructure/trie/code/trie.md)
 ## algorithmn  
 * [动态规划](#dynamic_programming)  
 * [回溯](#traceback)   
