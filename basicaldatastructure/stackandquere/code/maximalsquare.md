@@ -1,5 +1,5 @@
 题目描述：  
-![image](/basicaldatastructure/setandmap/image/image7.png)  
+![image](/basicaldatastructure/stackandquere/image/image18.png)  
 解决过程：  
 用的最小栈，吐了，居然忘记怎么写了，花了40分钟。而且审题出了问题，以为是最大矩形来着，没想到是最大正方形  
 代码：（最小栈→暴力→动态规划）  
