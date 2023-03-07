@@ -2,7 +2,7 @@
 终于，刷leetcode的时间来到了几乎快一个月，这一个月里也做了快两百题了。  
 按照我学习的一贯思路，在学习的初期基本上是野蛮生长，只管大量的给自己灌输知识，不去温习刚刚学过的知识或者去做一些旧题重做之类的事情。但是，总结是非常必要的，在现在这么一个阶段，我需要巩固自己已经学习过的大量知识，把做题时见到过的各种方法都给复习一遍，保证自己再做的时候5分钟之内能想到对应方法然后开始动笔。    
 **对于经典算法必须详细地记录算法步骤**
-**总题量：363**
+**总题量：364**
 # 分类  
 * [基本类](#basical)  
 * [基本数据结构](#basical_data_structure)  
@@ -147,6 +147,7 @@
 54. [递减元素使数组呈锯齿状](/basical/array/code/movestomakezigzag.md)
 55. [寻找重复数](/basical/array/code/findduplicate.md)
 56. [找到数字中消失的数字](/basical/array/image/image56.png)
+57. [和为k的子数组](/basical/array/code/subarraysum.md)
 ### sort
 1. [归并排序](/basical/sort/code/mergesort.md)  
 2. [堆排序](/basical/sort/code/heapsort.md)  
