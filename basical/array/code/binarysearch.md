@@ -1,7 +1,8 @@
 题目描述：  
 ![image1](/basical/array/image/image1.png)
-解题过程：经典思路，不想说了  
-代码：（改用c++了）  
+解题过程：
+* 二分查找：在**升序**数组中每次排除一半元素来获得目标值 
+代码：  
 ```cpp
 class Solution {
 public:

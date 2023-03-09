@@ -92,16 +92,16 @@
 62. [花括号展开](/basical/string/code/braceexpansionII.md)
 ### array  
 *   [总结](/conclusion/array.md)  
-1.  [二分查找](/basical/array/code/binarysearch.md)  
-2.  [搜索插入位置](/basical/array/code/searchinsertposition.md)  
-3.  [在排序数组中查找元素的第一个和最后一个位置](/basical/array/code/firstandlastpositionofbinarysearch.md)  
-4.  [数组中重复的元素](/basical/array/code/binarysearch.md)  
-5.  [x的平方根](/basical/array/code/xssqurt.md)  
-6.  [有效的完全平方数](/basical/array/code/validsqurt.md)  
-7.  [移除元素](/basical/array/code/removeitems.md)  
-8.  [移除相同的元素](/basical/array/code/removethesameitems.md)  
-9.  [移动零](/basical/array/code/removezero.md)  
-10. [有序数组的平方](/basical/array/code/sortedarrayssqurt.md)  
+1.  [二分查找](/basical/array/code/binarysearch.md)  ~~review[1]~~
+2.  [搜索插入位置](/basical/array/code/searchinsertposition.md)  ~~review[1]~~
+3.  [在排序数组中查找元素的第一个和最后一个位置](/basical/array/code/firstandlastpositionofbinarysearch.md)  ~~review[1]~~
+4.  [数组中重复的元素](/basical/array/code/thesameelementinarray.md)  ~~review[1]~~
+5.  [x的平方根](/basical/array/code/xssqurt.md)  ~~review[1]~~
+6.  [有效的完全平方数](/basical/array/code/validsqurt.md)  ~~review[1]~~
+7.  [移除元素](/basical/array/code/removeitems.md)  ~~review[1]~~
+8.  [移除相同的元素](/basical/array/code/removethesameitems.md)  ~~review[1]~~
+9.  [移动零](/basical/array/code/removezero.md)  ~~review[1]~~
+10. [有序数组的平方](/basical/array/code/sortedarrayssqurt.md)  ~~review[1]~~
 11. [长度最小的子数组](/basical/array/code/minsubarraylen.md)  
 12. [水果成篮](/basical/array/code/fruit.md)  
 13. [两个数组的交集](/basical/array/code/intersectionoftwoarray.md)  
@@ -147,7 +147,7 @@
 53. [使数组中所有元素都等于零](/basical/array/code/minimumoperations.md)
 54. [递减元素使数组呈锯齿状](/basical/array/code/movestomakezigzag.md)
 55. [寻找重复数](/basical/array/code/findduplicate.md)
-56. [找到数字中消失的数字](/basical/array/image/image56.png)
+56. [找到数字中消失的数字](/basical/array/code/finddisappearnumbers.md)
 57. [和为k的子数组](/basical/array/code/subarraysum.md)
 58. [最短无序连续子数组](/basical/array/code/findunsortedsubarray.md)
 ### sort

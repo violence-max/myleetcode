@@ -1,8 +1,8 @@
 题目描述：  
 ![image1](/basical/array/image/image6.png)
-解题过程：经典二分法，不想多说  
-**code review**
-最关键地地方应该在于long型的使用吧，防止两数相乘溢出加一个long强转  
+解题过程：
+* 二分法
+    * 注意两数相乘的时候加long进行类型强转
 ```cpp
 class Solution {
 public:
