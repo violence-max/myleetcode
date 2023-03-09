@@ -102,13 +102,13 @@
 8.  [移除相同的元素](/basical/array/code/removethesameitems.md)  ~~review[1]~~
 9.  [移动零](/basical/array/code/removezero.md)  ~~review[1]~~
 10. [有序数组的平方](/basical/array/code/sortedarrayssqurt.md)  ~~review[1]~~
-11. [长度最小的子数组](/basical/array/code/minsubarraylen.md)  
-12. [水果成篮](/basical/array/code/fruit.md)  
-13. [两个数组的交集](/basical/array/code/intersectionoftwoarray.md)  
-14. [两数之和](/basical/array/code/twosum.md)  
-15. [四数相加](/basical/array/code/foursumcount.md)  
-16. [三数之和](/basical/array/code/threesum.md)  
-17. [四数之和](/basical/array/code/foursum.md)  
+11. [长度最小的子数组](/basical/array/code/minsubarraylen.md)  ~~review[1]~~
+12. [水果成篮](/basical/array/code/fruit.md)  ~~review[1]~~
+13. [两个数组的交集](/basical/array/code/intersectionoftwoarray.md)  ~~review[1]~~
+14. [两数之和](/basical/array/code/twosum.md)  ~~review[1]~~
+15. [四数相加](/basical/array/code/foursumcount.md)  ~~review[1]~~
+16. [三数之和](/basical/array/code/threesum.md) ~~review~~  
+17. [四数之和](/basical/array/code/foursum.md)  ~~review~~
 18. [寻找两个正序数组的中位数](/basical/array/code/getkthelement.md)  
 19. [最少的操作数使数组递增](/basical/array/code/minoprations.md)  
 20. [删除每行中的最大值](/basical/array/code/deletegreatesvalue.md)  
