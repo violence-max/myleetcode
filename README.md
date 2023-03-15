@@ -109,8 +109,8 @@
 15. [四数相加](/basical/array/code/foursumcount.md)  ~~review[1]~~
 16. [三数之和](/basical/array/code/threesum.md) ~~review[1]~~  
 17. [四数之和](/basical/array/code/foursum.md)  ~~review[1]~~
-18. [寻找两个正序数组的中位数](/basical/array/code/getkthelement.md)  ~~review[1]~~
-19. [最少的操作数使数组递增](/basical/array/code/minoprations.md)  
+18. [寻找两个正序数组的中位数](/basical/array/code/getkthelement.md)  ~~review[1]~~ :exclamation:
+19. [最少的操作数使数组递增](/basical/array/code/minoprations.md)  ~~review[1]~~
 20. [删除每行中的最大值](/basical/array/code/deletegreatesvalue.md)  
 21. [盛最多水的容器](/basical/array/code/maxarea.md)  
 22. [最接近的三数之和](/basical/array/code/threesunclosest.md)  
