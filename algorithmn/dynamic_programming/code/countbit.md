@@ -13,7 +13,7 @@
     对于数x，将其右移一位得到数y，如果数x为偶数，则bit[x] = bit[y]，否则bit[x] = bit[y] + 1   
 - 动态规划：最低设置位  
     对于数x，令y = x & (x-1)，则bit[x] = bit[y] + 1  
-代码：（Brian Kernighan算法→动态规划（最高有效位））  
+代码：（Brian Kernighan算法→动态规划（最高有效位）->动态规划（最低有效位）->动态规划(最低设置位)）  
 ```cpp
 class Solution {
 public:

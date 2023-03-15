@@ -366,7 +366,7 @@
 47. [地下城与勇士](/algorithmn/dynamic_programming/code/calculationminimumhp.md)
 48. [穿过迷宫的最少移动次数](/algorithmn/dynamic_programming/code/minimummoves.md)
 49. [能够覆盖花园的最少的水龙头的数目](/algorithmn/dynamic_programming/code/mintap.md)
-50. [比特位计数](/algorithmn/dynamic_programming/code/countbit.md)
+50. [比特位计数](/algorithmn/dynamic_programming/code/countbit.md) ~~review[1]~~
 51. [礼物的最大价值](/algorithmn/dynamic_programming/code/maxvalue.md)
 ### traceback
 1.  [组合](/algorithmn/tracebak/code/combine.md)  
