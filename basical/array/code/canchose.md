@@ -1,7 +1,9 @@
 题目描述：  
 ![image](/basical/array/image/image23.png)  
 解题过程：  
-简单一批，逐渐循环group数组里面的容器然后一个一个比较就可以了，类似于双指针的思路  
+* 模拟比较:
+1. 对group进行循环，逐一在nums数组中进行比较，比较不成功则比较的起始位置加1，否则加上正在比较的group的元素的子数组的大小
+2. 统计成功比较的元素个数count，若最终count == group.size()，则可以返回true
 代码：  
 ```cpp
 class Solution {

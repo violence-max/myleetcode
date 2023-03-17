@@ -2,7 +2,7 @@
 终于，刷leetcode的时间来到了几乎快一个月，这一个月里也做了快两百题了。  
 按照我学习的一贯思路，在学习的初期基本上是野蛮生长，只管大量的给自己灌输知识，不去温习刚刚学过的知识或者去做一些旧题重做之类的事情。但是，总结是非常必要的，在现在这么一个阶段，我需要巩固自己已经学习过的大量知识，把做题时见到过的各种方法都给复习一遍，保证自己再做的时候5分钟之内能想到对应方法然后开始动笔。    
 **对于经典算法必须详细地记录算法步骤**
-**总题量：375**
+**总题量：376**
 # 分类  
 * [基本类](#basical)  
 * [基本数据结构](#basical_data_structure)  
@@ -107,14 +107,14 @@
 13. [两个数组的交集](/basical/array/code/intersectionoftwoarray.md)  ~~review[1]~~
 14. [两数之和](/basical/array/code/twosum.md)  ~~review[1]~~
 15. [四数相加](/basical/array/code/foursumcount.md)  ~~review[1]~~
-16. [三数之和](/basical/array/code/threesum.md) ~~review[1]~~  
+16. [三数之和](/basical/array/code/threesum.md) ~~review[2]~~  :exclamation:
 17. [四数之和](/basical/array/code/foursum.md)  ~~review[1]~~
 18. [寻找两个正序数组的中位数](/basical/array/code/getkthelement.md)  ~~review[1]~~ :exclamation:
 19. [最少的操作数使数组递增](/basical/array/code/minoprations.md)  ~~review[1]~~
-20. [删除每行中的最大值](/basical/array/code/deletegreatesvalue.md)  
-21. [盛最多水的容器](/basical/array/code/maxarea.md)  
-22. [最接近的三数之和](/basical/array/code/threesunclosest.md)  
-23. [通过连接另一个数组的子数组得到一个数组](/basical/array/code/canchose.md)  
+20. [删除每行中的最大值](/basical/array/code/deletegreatesvalue.md)  ~~review[1]~~
+21. [盛最多水的容器](/basical/array/code/maxarea.md)  ~~review~~ :exclamation:
+22. [最接近的三数之和](/basical/array/code/threesunclosest.md)  ~~review[1]~~
+23. [通过连接另一个数组的子数组得到一个数组](/basical/array/code/canchose.md)  ~~review[1]~~
 24. [得到连续k个1的最少移动次数](/basical/array/code/minmoves.md)  
 25. [搜索旋转排序数组](/basical/array/code/search.md)  
 26. [袋子里最少数目的球](/basical/array/code/minimumsize.md)   
@@ -151,6 +151,7 @@
 57. [和为k的子数组](/basical/array/code/subarraysum.md)
 58. [最短无序连续子数组](/basical/array/code/findunsortedsubarray.md)
 59. [得到连续k个黑色块的最少涂色次数](/basical/array/code/minimumrecolors.md)
+60. [统计中位数为K的子数组](/basical/array/code/countsubarrays.md)
 ### sort
 1. [归并排序](/basical/sort/code/mergesort.md)  
 2. [堆排序](/basical/sort/code/heapsort.md)  
