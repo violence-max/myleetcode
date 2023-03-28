@@ -2,7 +2,7 @@
 终于，刷leetcode的时间来到了几乎快一个月，这一个月里也做了快两百题了。  
 按照我学习的一贯思路，在学习的初期基本上是野蛮生长，只管大量的给自己灌输知识，不去温习刚刚学过的知识或者去做一些旧题重做之类的事情。但是，总结是非常必要的，在现在这么一个阶段，我需要巩固自己已经学习过的大量知识，把做题时见到过的各种方法都给复习一遍，保证自己再做的时候5分钟之内能想到对应方法然后开始动笔。    
 **对于经典算法必须详细地记录算法步骤**
-**总题量：380**
+**总题量：381**
 # 分类  
 * [基本类](#basical)  
 * [基本数据结构](#basical_data_structure)  
@@ -92,6 +92,7 @@
 61. [找到字符串中所有字母异位词](/basical/string/code/findanagrams.md)
 62. [花括号展开](/basical/string/code/braceexpansionII.md)
 63. [执行操作后字典序最小的字符串](/basical/string/code/findlexsmalleststring.md) 
+64. [统计只差一个字符的子串数目](/basical/string/code/countsubstring.md)
 ### array  
 *   [总结](/conclusion/array.md)  
 1.  [二分查找](/basical/array/code/binarysearch.md)  ~~review[1]~~
@@ -349,7 +350,7 @@
 25. [最长递增子序列](/algorithmn/dynamic_programming/code/lengthoflis.md)  
 26. [最长连续递增子序列](/algorithmn/dynamic_programming/code/findlengthoflcis.md)  
 27. [最长公共子数组](/algorithmn/dynamic_programming/code/findlength.md)  
-28. [最长公共子序列](/algorithmn/dynamic_programming/code/longestcommonsubsequence.md)  
+28. [最长公共子序列](/algorithmn/dynamic_programming/code/longestcommonsubsequence.md)  ~~review[1]~~
 29. [不相交的线](/algorithmn/dynamic_programming/code/maxuncrossline.md)  
 30. [判断子序列](/algorithmn/dynamic_programming/code/issubsequnce.md)  
 31. [不同的子序列](/algorithmn/dynamic_programming/code/numdistinct.md)  

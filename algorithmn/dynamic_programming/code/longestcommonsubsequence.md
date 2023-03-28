@@ -1,7 +1,8 @@
 题目描述：  
 ![image](/algorithmn/dynamic_programming/image/image28.png)  
 解题过程：  
-终于，ac了一道动态规划！！还是最长公共子序列！！强无敌！！虽然推导出动态规划方程出现了那么一点点的小困难，但是不愧是我  
+1. dp[i][j]表示的是text1[i:]和text2[j:]的最长公共子序列的长度
+2. 不论是反向遍历还是正向遍历都可以求得最终答案
 代码：  
 ```cpp
 class Solution {
