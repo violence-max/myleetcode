@@ -2,7 +2,7 @@
 终于，刷leetcode的时间来到了几乎快一个月，这一个月里也做了快两百题了。  
 按照我学习的一贯思路，在学习的初期基本上是野蛮生长，只管大量的给自己灌输知识，不去温习刚刚学过的知识或者去做一些旧题重做之类的事情。但是，总结是非常必要的，在现在这么一个阶段，我需要巩固自己已经学习过的大量知识，把做题时见到过的各种方法都给复习一遍，保证自己再做的时候5分钟之内能想到对应方法然后开始动笔。    
 **对于经典算法必须详细地记录算法步骤**
-**总题量：397**
+**总题量：398**
 # 分类  
 * [基本类](#basical)  
 * [基本数据结构](#basical_data_structure)  
@@ -316,6 +316,7 @@
 19. [排序链表](/basicaldatastructure/linkedlist/code/sortlist.md)
 20. [合并两个链表](/basicaldatastructure/linkedlist/code/mergeinbetween.md)
 21. [回文链表](/basicaldatastructure/linkedlist/code/ispalinedrome.md)
+22. [链表中下一个更大节点](/basicaldatastructure/linkedlist/code/nextlargernode.md)
 ### setandmap
 1.  [计算MK平均值](/basicaldatastructure/setandmap/code/MKavrage.md)
 2.  [查找用户活跃分钟数](/basicaldatastructure/setandmap/code/finduseractivateminute.md)
