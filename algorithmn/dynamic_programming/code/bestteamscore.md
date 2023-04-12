@@ -1,4 +1,5 @@
-题目描述：  
+题目描述：
+![image](/algorithmn/dynamic_programming/image/image56.png)  
 ```cpp
 class Solution {
 public:

@@ -1,5 +1,5 @@
 题目描述：  
-![image](/algorithmn/dynamic_programming/code/minscoretriangulation.md)  
+![image](/algorithmn/dynamic_programming/image/image54.png)  
 解决过程：  
 没做出来  
 - 区间dp
