@@ -2,7 +2,7 @@
 终于，刷leetcode的时间来到了几乎快一个月，这一个月里也做了快两百题了。  
 按照我学习的一贯思路，在学习的初期基本上是野蛮生长，只管大量的给自己灌输知识，不去温习刚刚学过的知识或者去做一些旧题重做之类的事情。但是，总结是非常必要的，在现在这么一个阶段，我需要巩固自己已经学习过的大量知识，把做题时见到过的各种方法都给复习一遍，保证自己再做的时候5分钟之内能想到对应方法然后开始动笔。    
 **对于经典算法必须详细地记录算法步骤**
-**总题量：421**
+**总题量：422**
 # 分类  
 * [基本类](#basical)  
 * [基本数据结构](#basical_data_structure)  
@@ -172,6 +172,7 @@
 69. [检查相同字母间的距离](/basical/array/code/checkdistances.md)
 70. [不邻接植花](/basical/array/code/gardennoadj.md)
 71. [两个非重叠子数组的最大和](/basical/array/code/maxsumtwooverlap.md)
+72. [判断两个事件是否存在冲突](/basical/array/code/haveconflict.md)
 ### sort
 1. [归并排序](/basical/sort/code/mergesort.md)  
 2. [堆排序](/basical/sort/code/heapsort.md)  
