@@ -2,7 +2,7 @@
 终于，刷leetcode的时间来到了几乎快一个月，这一个月里也做了快两百题了。  
 按照我学习的一贯思路，在学习的初期基本上是野蛮生长，只管大量的给自己灌输知识，不去温习刚刚学过的知识或者去做一些旧题重做之类的事情。但是，总结是非常必要的，在现在这么一个阶段，我需要巩固自己已经学习过的大量知识，把做题时见到过的各种方法都给复习一遍，保证自己再做的时候5分钟之内能想到对应方法然后开始动笔。    
 **对于经典算法必须详细地记录算法步骤**
-**总题量：423**
+**总题量：424**
 # 分类  
 * [基本类](#basical)  
 * [基本数据结构](#basical_data_structure)  
@@ -226,7 +226,7 @@
 32. [困于环中的机器人](/basical/IQ/code/isrobotbouned.md)
 33. [移动石子直到连续II](/basical/IQ/code/nummovesstones.md)
 34. [公因子的数目](/basical/IQ/code/commonfactors.md)
-35. [负二进制转换](/basical/IQ/code/baseneg2.md)
+35. [负二进制转换](/basical/IQ/code/baseneg2.md) ~~review[1]~~
 36. [子数组中占绝大多数的元素](/basical/IQ/code/majoritychecker.md)
 37. [统计共同度过的日子数](/basical/IQ/code/countdaystogether.md)
 38. [最小偶倍数](/basical/IQ/code/smallesteventmultiple.md)
@@ -311,6 +311,7 @@
 52. [路径总和III](/basicaldatastructure/binary_tree/code/pathsumIII.md)
 53. [二叉树的直径](/basicaldatastructure/binary_tree/code/diameterbinarytree.md)
 54. [节点与其祖先之间的最大差值](/basicaldatastructure/binary_tree/code/maxancestor.md)
+55. [删点成林](/basicaldatastructure/binary_tree/code/delnodes.md)
 ### linkedlist
 1.  [移除链表元素](/basicaldatastructure/linkedlist/code/removeelementsoflinkedlist.md)  
 2.  [设计链表](/basicaldatastructure/linkedlist/code/designlinkedlist.md)  
