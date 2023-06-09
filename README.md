@@ -1,10 +1,10 @@
 **记录在leetcode上刷题的点点滴滴**  
 又开始重新刷题了：
-- 6月每天5道题：1/8
+- 6月每天5道题：2/9
 - 7月每天复习5道题加每日一题
 - 8月每天一份虚拟竞赛  
 **对于经典算法必须详细地记录算法步骤**
-**总题量：450**
+**总题量：451**
 # 分类  
 * [基本类](#basical)  
 * [基本数据结构](#basical_data_structure)  
@@ -372,6 +372,7 @@
 9.  [保证文件名唯一](/basicaldatastructure/setandmap/code/getfoldernames.md)
 10. [和相等的子数组](/basicaldatastructure/setandmap/code/findsubarrays.md)
 11. [出现最频繁的偶数元素](/basicaldatastructure/setandmap/code/mostfreqenceevent.md)
+12. [大餐计数](/basicaldatastructure/setandmap/code/countpairs.md)
 ### trie
 1. [实现前缀树](/basicaldatastructure/trie/code/trie.md)
 2. [删除子文件夹](/basicaldatastructure/trie/code/removesubfolders.md)
