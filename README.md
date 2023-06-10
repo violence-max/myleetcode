@@ -4,7 +4,7 @@
 - 7月每天复习5道题加每日一题
 - 8月每天一份虚拟竞赛  
 **对于经典算法必须详细地记录算法步骤**
-**总题量：451**
+**总题量：453**
 # 分类  
 * [基本类](#basical)  
 * [基本数据结构](#basical_data_structure)  
@@ -107,6 +107,7 @@
 71. [按列翻转得到最大值等行数](/basical/string/code/maxequalrowsafterflips.md)
 72. [单字符重复子串的最大长度](/basical/string/code/maxrepopt1.md)
 73. [最小化字符串长度](/basical/string/code/minimizedstringlength.md)
+74. [比较字符串最小字母出现频次](/basical/string/code/numsmallerbyfrequency.md)
 ### array  
 *   [总结](/conclusion/array.md)  
 1.  [二分查找](/basical/array/code/binarysearch.md)  ~~review[1]~~
@@ -187,6 +188,7 @@
 76. [不同的平均值数目](/basical/array/code/distinctaverages.md)
 77. [对数组执行操作](/basical/array/code/applyoperations.md)
 78. [老鼠和奶酪](/basical/array/code/miceandcheece.md)
+79. [翻转子数组得到的最大数组值](/basical/array/code/maxvalueafterreverse.md)
 ### sort
 1. [归并排序](/basical/sort/code/mergesort.md)  
 2. [堆排序](/basical/sort/code/heapsort.md)  
