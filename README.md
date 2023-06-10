@@ -4,7 +4,7 @@
 - 7月每天复习5道题加每日一题
 - 8月每天一份虚拟竞赛  
 **对于经典算法必须详细地记录算法步骤**
-**总题量：453**
+**总题量：454**
 # 分类  
 * [基本类](#basical)  
 * [基本数据结构](#basical_data_structure)  
@@ -280,6 +280,7 @@
 21. [查找和最小的k对数字](/basicaldatastructure/stackandquere/code/ksmallestpairs.md)
 22. [有序矩阵中第k个最小数组和](/basicaldatastructure/stackandquere/code/kthsmallest.md)
 23. [距离相等的条形码](/basicaldatastructure/stackandquere/code/rearrangebarcodes.md)
+24. [单线程cpu](/basicaldatastructure/stackandquere/code/getorder.md)
 ### binary_tree
 1.  [树的子结构](/basicaldatastructure/binary_tree/code/substructureoftree.md)  
 2.  [前序遍历](/basicaldatastructure/binary_tree/code/preordertraversal.md)  
