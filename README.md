@@ -4,7 +4,7 @@
 - 7月每天复习5道题加每日一题
 - 8月每天一份虚拟竞赛  
 **对于经典算法必须详细地记录算法步骤**
-**总题量：459**
+**总题量：460**
 # 分类  
 * [基本类](#basical)  
 * [基本数据结构](#basical_data_structure)  
@@ -380,6 +380,7 @@
 11. [出现最频繁的偶数元素](/basicaldatastructure/setandmap/code/mostfreqenceevent.md)
 12. [大餐计数](/basicaldatastructure/setandmap/code/countpairs.md)
 13. [判断一个数是否迷人](/basicaldatastructure/setandmap/code/isfascinating.md)
+14. [既不是最小值也不是最大值](/basicaldatastructure/setandmap/code/findnonminormax.md)
 ### trie
 1. [实现前缀树](/basicaldatastructure/trie/code/trie.md)
 2. [删除子文件夹](/basicaldatastructure/trie/code/removesubfolders.md)
