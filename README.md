@@ -4,7 +4,7 @@
 - 7月每天复习5道题加每日一题
 - 8月每天一份虚拟竞赛  
 **对于经典算法必须详细地记录算法步骤**
-**总题量：462**
+**总题量：463**
 # 分类  
 * [基本类](#basical)  
 * [基本数据结构](#basical_data_structure)  
@@ -387,6 +387,7 @@
 1. [实现前缀树](/basicaldatastructure/trie/code/trie.md)
 2. [删除子文件夹](/basicaldatastructure/trie/code/removesubfolders.md)
 3. [字符流](/basicaldatastructure/trie/code/streamchecker.md)
+4. [找到矩阵中的好子集](/basicaldatastructure/trie/code/goodsubsettobinarymatrix.md)
 ## algorithmn  
 * [动态规划](#dynamic_programming)  
 * [回溯](#traceback)   
