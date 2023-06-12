@@ -4,7 +4,7 @@
 - 7月每天复习5道题加每日一题
 - 8月每天一份虚拟竞赛  
 **对于经典算法必须详细地记录算法步骤**
-**总题量：461**
+**总题量：462**
 # 分类  
 * [基本类](#basical)  
 * [基本数据结构](#basical_data_structure)  
@@ -343,6 +343,7 @@
 56. [叶值的最小代价生成树](/basicaldatastructure/binary_tree/code/mctfromleafvalues.md)
 57. [根到叶路径上的不足节点](/basicaldatastructure/binary_tree/code/sufficientsubset.md)
 58. [二叉搜素子树的最大键值和](/basicaldatastructure/binary_tree/code/maxsumbst.md)
+59. [树节点的第k个祖先](/basicaldatastructure/binary_tree/code/treeancestor.md)
 ### linkedlist
 1.  [移除链表元素](/basicaldatastructure/linkedlist/code/removeelementsoflinkedlist.md)  
 2.  [设计链表](/basicaldatastructure/linkedlist/code/designlinkedlist.md)  
