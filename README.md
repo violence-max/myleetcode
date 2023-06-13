@@ -4,7 +4,7 @@
 - 7月每天复习5道题加每日一题
 - 8月每天一份虚拟竞赛  
 **对于经典算法必须详细地记录算法步骤**
-**总题量：467**
+**总题量：468**
 # 分类  
 * [基本类](#basical)  
 * [基本数据结构](#basical_data_structure)  
@@ -111,6 +111,7 @@
 75. [找到最长的半重复子字符串](/basical/string/code/longestsemireptitivesubstrings.md)
 76. [执行子串操作后字典序最小字符串](/basical/string/code/smalleststring.md)
 77. [子串能表示从1到N数字的二进制串](/basical/string/code/querystring.md)
+78. [元音拼写检查器](/basical/string/code/spellchecker.md)
 ### array  
 *   [总结](/conclusion/array.md)  
 1.  [二分查找](/basical/array/code/binarysearch.md)  ~~review[1]~~
@@ -347,6 +348,7 @@
 57. [根到叶路径上的不足节点](/basicaldatastructure/binary_tree/code/sufficientsubset.md)
 58. [二叉搜素子树的最大键值和](/basicaldatastructure/binary_tree/code/maxsumbst.md)
 59. [树节点的第k个祖先](/basicaldatastructure/binary_tree/code/treeancestor.md)
+60. [从先序遍历还原二叉树](/basicaldatastructure/binary_tree/code/recoverfrompreorder.md)
 ### linkedlist
 1.  [移除链表元素](/basicaldatastructure/linkedlist/code/removeelementsoflinkedlist.md)  
 2.  [设计链表](/basicaldatastructure/linkedlist/code/designlinkedlist.md)  
