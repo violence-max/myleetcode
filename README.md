@@ -4,7 +4,7 @@
 - 7月每天复习5道题加每日一题
 - 8月每天一份虚拟竞赛  
 **对于经典算法必须详细地记录算法步骤**
-**总题量：469**
+**总题量：470**
 # 分类  
 * [基本类](#basical)  
 * [基本数据结构](#basical_data_structure)  
@@ -112,6 +112,7 @@
 76. [执行子串操作后字典序最小字符串](/basical/string/code/smalleststring.md)
 77. [子串能表示从1到N数字的二进制串](/basical/string/code/querystring.md)
 78. [元音拼写检查器](/basical/string/code/spellchecker.md)
+79. [二进制字符串前缀一致的次数](/basical/string/code/numtimesallblue.md)
 ### array  
 *   [总结](/conclusion/array.md)  
 1.  [二分查找](/basical/array/code/binarysearch.md)  ~~review[1]~~
