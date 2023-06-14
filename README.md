@@ -4,7 +4,7 @@
 - 7月每天复习5道题加每日一题
 - 8月每天一份虚拟竞赛  
 **对于经典算法必须详细地记录算法步骤**
-**总题量：468**
+**总题量：469**
 # 分类  
 * [基本类](#basical)  
 * [基本数据结构](#basical_data_structure)  
@@ -490,6 +490,7 @@
 25. [戳气球](/algorithmn/tracebak/code/maxcoins.md)
 26. [铺瓷砖](/algorithmn/tracebak/code/tilingrectangle.md)
 27. [活字印刷](/algorithmn/tracebak/code/numtilepossibilities.md)
+28. [可能的二分法](/algorithmn/tracebak/code/possiblebipartion.md)
 ### greed
 1.  [分发饼干](/algorithmn/greed/code/distributebiscuit.md)  
 2.  [摆动序列](/algorithmn/greed/code/wigglemaxlength.md)  
