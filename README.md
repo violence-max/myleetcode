@@ -4,7 +4,7 @@
 - 7月每天复习5道题加每日一题
 - 8月每天一份虚拟竞赛  
 **对于经典算法必须详细地记录算法步骤**
-**总题量：471**
+**总题量：472**
 # 分类  
 * [基本类](#basical)  
 * [基本数据结构](#basical_data_structure)  
@@ -259,6 +259,7 @@
 42. [负二进制数相加](/basical/IQ/code/addnegbinary.md)
 43. [移动机器人](/basical/IQ/code/sumdistance.md)
 44. [可被k整除的最小整数](/basical/IQ/code/smallesteventmultiple.md)
+45. [位1的个数](/basical/IQ/code/hanmingweight.md)
 ## basical_data_structure  
 * [栈和队列](#stackandquere)  
 * [二叉树](#binary_tree)
