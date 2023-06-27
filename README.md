@@ -4,7 +4,7 @@
 - 7月每天复习5道题加每日一题
 - 8月每天一份虚拟竞赛  
 **对于经典算法必须详细地记录算法步骤**
-**总题量：479**
+**总题量：480**
 # 分类  
 * [基本类](#basical)  
 * [基本数据结构](#basical_data_structure)  
@@ -470,6 +470,7 @@
 63. [删除一次得到子数组最大和](/algorithmn/dynamic_programming/code/maximumsum.md)
 64. [收集巧克力](/algorithmn/dynamic_programming/code/mincost.md)
 65. [并行课程II](/algorithmn/dynamic_programming/code/minnumberofsemesters.md)
+66. [最大化网格幸福感](/algorithmn/dynamic_programming/code/getmaxgridhappiness.md)
 ### traceback
 1.  [组合](/algorithmn/tracebak/code/combine.md)  
 2.  [组合总和](/algorithmn/tracebak/code/combinesum.md)  
