@@ -4,7 +4,7 @@
 - 7月每天复习5道题加每日一题
 - 8月每天一份虚拟竞赛  
 **对于经典算法必须详细地记录算法步骤**
-**总题量：483**
+**总题量：484**
 # 分类  
 * [基本类](#basical)  
 * [基本数据结构](#basical_data_structure)  
@@ -33,6 +33,7 @@
 12. [二进制矩阵中的最短路径](/basical/matrix/code/shortestpathbinarymatrix.md)
 13. [查询后矩阵中的和](/basical/matrix/code/matrixsumqueries.md)
 14. [相等行列队](/basical/matrix/code/equalpairs.md)
+15. [重构2行二进制矩阵](/basical/matrix/image/image16.png)
 ### string  
 1.  [比较含退格的字符串](/basical/string/code/comparestringwithoutspace.md)  
 2.  [最小覆盖子串](/basical/string/code/mincoverstr.md)  
