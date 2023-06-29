@@ -4,7 +4,7 @@
 - 7月每天复习5道题加每日一题
 - 8月每天一份虚拟竞赛  
 **对于经典算法必须详细地记录算法步骤**
-**总题量：484**
+**总题量：485**
 # 分类  
 * [基本类](#basical)  
 * [基本数据结构](#basical_data_structure)  
@@ -475,6 +475,7 @@
 66. [最大化网格幸福感](/algorithmn/dynamic_programming/code/getmaxgridhappiness.md)
 67. [特别的排列](/algorithmn/dynamic_programming/code/specialperm.md)
 68. [给墙壁刷油漆](/algorithmn/dynamic_programming/code/paintwalls.md)
+69. [最小不兼容性](/algorithmn/dynamic_programming/code/minimumincompatibility.md)
 ### traceback
 1.  [组合](/algorithmn/tracebak/code/combine.md)  
 2.  [组合总和](/algorithmn/tracebak/code/combinesum.md)  
