@@ -4,7 +4,7 @@
 - 7月每天复习5道题加每日一题
 - 8月每天一份虚拟竞赛  
 **对于经典算法必须详细地记录算法步骤**
-**总题量：487**
+**总题量：488**
 # 分类  
 * [基本类](#basical)  
 * [基本数据结构](#basical_data_structure)  
@@ -200,6 +200,7 @@
 80. [数组中不等三元组的数目](/basical/array/code/unequaltriplets.md)
 81. [数组中字符串的最大值](/basical/array/code/maximumvalue.md)
 82. [找出中枢整数](/basical/array/code/pivotinterger.md)
+83. [统计没有收到请求的服务器数目](/basical/array/code/countservers.md)
 ### sort
 1. [归并排序](/basical/sort/code/mergesort.md)  
 2. [堆排序](/basical/sort/code/heapsort.md)  
