@@ -4,7 +4,7 @@
 - 7月每天复习5道题加每日一题：更改为每天5道题：0/1
 - 8月每天一份虚拟竞赛  
 **对于经典算法必须详细地记录算法步骤**
-**总题量：495**
+**总题量：496**
 # 分类  
 * [基本类](#basical)  
 * [基本数据结构](#basical_data_structure)  
@@ -203,6 +203,7 @@
 83. [统计没有收到请求的服务器数目](/basical/array/code/countservers.md)
 84. [将数组划分成若干好数组的方式](/basical/array/code/numofgoodsubarraysplits.md)
 85. [统计包含每个点的矩形数目](/basical/array/code/countrectangles.md)
+86. [最长奇偶子数组](/basical/array/code/longestalternativesubarrays.md)
 ### sort
 1. [归并排序](/basical/sort/code/mergesort.md)  
 2. [堆排序](/basical/sort/code/heapsort.md)  
