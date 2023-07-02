@@ -1,10 +1,10 @@
 **记录在leetcode上刷题的点点滴滴**  
 又开始重新刷题了：
 - ~~6月每天5道题：6/30~~
-- 7月每天复习5道题加每日一题：更改为每天5道题：0/1
+- 7月每天复习5道题加每日一题：更改为每天5道题：1/2
 - 8月每天一份虚拟竞赛  
 **对于经典算法必须详细地记录算法步骤**
-**总题量：497**
+**总题量：498**
 # 分类  
 * [基本类](#basical)  
 * [基本数据结构](#basical_data_structure)  
@@ -205,6 +205,7 @@
 85. [统计包含每个点的矩形数目](/basical/array/code/countrectangles.md)
 86. [最长奇偶子数组](/basical/array/code/longestalternativesubarrays.md)
 87. [不间断子数组](/basical/array/code/continuoussubarrays.md)
+88. [所有子数组中不平衡数字之和](/basical/array/code/suminbalancenumbers.md)
 ### sort
 1. [归并排序](/basical/sort/code/mergesort.md)  
 2. [堆排序](/basical/sort/code/heapsort.md)  
