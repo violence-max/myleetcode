@@ -4,7 +4,7 @@
 - 7月每天复习5道题加每日一题：更改为每天5道题：1/2
 - 8月每天一份虚拟竞赛  
 **对于经典算法必须详细地记录算法步骤**
-**总题量：500**
+**总题量：501**
 # 分类  
 * [基本类](#basical)  
 * [基本数据结构](#basical_data_structure)  
@@ -395,6 +395,7 @@
 21. [回文链表](/basicaldatastructure/linkedlist/code/ispalinedrome.md)
 22. [链表中下一个更大节点](/basicaldatastructure/linkedlist/code/nextlargernode.md)
 23. [从链表中删去总和值为0的连续节点](/basicaldatastructure/linkedlist/code/removezerosumsublists.md)
+24. [两数相加II](/basicaldatastructure/linkedlist/code/addtwonumbers.md)
 ### setandmap
 1.  [计算MK平均值](/basicaldatastructure/setandmap/code/MKavrage.md)
 2.  [查找用户活跃分钟数](/basicaldatastructure/setandmap/code/finduseractivateminute.md)
