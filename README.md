@@ -4,7 +4,7 @@
 - 7月每天复习5道题加每日一题：更改为每天5道题：1/2
 - 8月每天一份虚拟竞赛  
 **对于经典算法必须详细地记录算法步骤**
-**总题量：503**
+**总题量：504**
 # 分类  
 * [基本类](#basical)  
 * [基本数据结构](#basical_data_structure)  
@@ -311,6 +311,7 @@
 24. [单线程cpu](/basicaldatastructure/stackandquere/code/getorder.md)
 25. [最大和查询](/basicaldatastructure/stackandquere/code/maximumsumqueries.md)
 26. [机器人碰撞](/basicaldatastructure/stackandquere/code/surviverobothealths.md)
+27. [找出最具竞争力的子序列](/basicaldatastructure/stackandquere/code/mostcompetitive.md)
 ### binary_tree
 1.  [树的子结构](/basicaldatastructure/binary_tree/code/substructureoftree.md)  
 2.  [前序遍历](/basicaldatastructure/binary_tree/code/preordertraversal.md)  
