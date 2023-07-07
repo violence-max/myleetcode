@@ -4,7 +4,7 @@
 - 7月每天复习5道题加每日一题：更改为每天5道题：2/4
 - 8月每天一份虚拟竞赛  
 **对于经典算法必须详细地记录算法步骤**
-**总题量：511**
+**总题量：512**
 # 分类  
 * [基本类](#basical)  
 * [基本数据结构](#basical_data_structure)  
@@ -378,6 +378,7 @@
 58. [二叉搜素子树的最大键值和](/basicaldatastructure/binary_tree/code/maxsumbst.md)
 59. [树节点的第k个祖先](/basicaldatastructure/binary_tree/code/treeancestor.md)
 60. [从先序遍历还原二叉树](/basicaldatastructure/binary_tree/code/recoverfrompreorder.md)
+61. [从二叉树一个节点到另一个节点的每一步](/basicaldatastructure/binary_tree/code/getdirectioins.md)
 ### linkedlist
 1.  [移除链表元素](/basicaldatastructure/linkedlist/code/removeelementsoflinkedlist.md)  
 2.  [设计链表](/basicaldatastructure/linkedlist/code/designlinkedlist.md)  
