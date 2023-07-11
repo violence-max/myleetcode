@@ -4,7 +4,7 @@
 - 7月每天复习5道题加每日一题：更改为每天5道题：3/7
 - 8月每天一份虚拟竞赛  
 **对于经典算法必须详细地记录算法步骤**
-**总题量：516**
+**总题量：517**
 # 分类  
 * [基本类](#basical)  
 * [基本数据结构](#basical_data_structure)  
@@ -505,6 +505,7 @@
 72. [完成任务的最少工作时间段](/algorithmn/dynamic_programming/code/minsessions.md)
 73. [最大为N的数字组合](/algorithmn/dynamic_programming/code/atmostndigitset.md)
 74. [不同的子序列II](/algorithmn/dynamic_programming/code/distinctsubseqII.md)
+75. [最大子序列交替和](/algorithmn/dynamic_programming/code/maxalternatingsum.md)
 ### traceback
 1.  [组合](/algorithmn/tracebak/code/combine.md)  
 2.  [组合总和](/algorithmn/tracebak/code/combinesum.md)  
