@@ -119,6 +119,7 @@
 79. [二进制字符串前缀一致的次数](/basical/string/code/numtimesallblue.md)
 80. [构建回文串检测](/basical/string/code/canmakepaliqueries.md)
 81. [回环句](/basical/string/code/iscircularsentence.md)
+82. [最长合法子字符串的长度](/basical/string/code/longestvalidsubstr.md)
 ### array  
 *   [总结](/conclusion/array.md)  
 1.  [二分查找](/basical/array/code/binarysearch.md)  ~~review[1]~~
