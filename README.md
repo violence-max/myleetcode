@@ -4,7 +4,7 @@
 - 7月每天复习5道题加每日一题：更改为每天5道题：3/7
 - 8月每天一份虚拟竞赛  
 **对于经典算法必须详细地记录算法步骤**
-**总题量：523**
+**总题量：524**
 # 分类  
 * [基本类](#basical)  
 * [基本数据结构](#basical_data_structure)  
@@ -291,6 +291,7 @@
 ### simulation
 1. [过桥时间](/basical/simulation/code/findcrossingtime.md)
 2. [交替数字和](/basical/simulation/code/alternativedigitsum.md)
+3. [特殊元素平方和](/basical/simulation/code/sumofsquares.md)
 ## basical_data_structure  
 * [栈和队列](#stackandquere)  
 * [二叉树](#binary_tree)
