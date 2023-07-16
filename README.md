@@ -4,7 +4,7 @@
 - 7月每天复习5道题加每日一题：更改为每天5道题：3/7
 - 8月每天一份虚拟竞赛  
 **对于经典算法必须详细地记录算法步骤**
-**总题量：522**
+**总题量：523**
 # 分类  
 * [基本类](#basical)  
 * [基本数据结构](#basical_data_structure)  
@@ -234,6 +234,7 @@
 12. [修改图中的边权](/basical/gragh/code/modifiedgraghedges.md)
 13. [情侣牵手](/basical/gragh/code/minswapcouples.md)
 14. [尽量减少恶意软件的传播II](/basical/gragh/code/minmalwarespread.md)
+15. [树中距离之和](/basical/gragh/code/sumofdistanceintree.md)
 ### IQ
 1.  [快乐数](/basical/IQ/code/happynumber.md)  
 2.  [整数反转](/basical/IQ/code/reverse.md)  
