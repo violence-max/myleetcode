@@ -293,6 +293,7 @@
 1. [过桥时间](/basical/simulation/code/findcrossingtime.md)
 2. [交替数字和](/basical/simulation/code/alternativedigitsum.md)
 3. [特殊元素平方和](/basical/simulation/code/sumofsquares.md)
+4. [字符串相加](/basical/simulation/code/addstrings.md)
 ## basical_data_structure  
 * [栈和队列](#stackandquere)  
 * [二叉树](#binary_tree)
