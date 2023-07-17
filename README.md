@@ -1,7 +1,7 @@
 **记录在leetcode上刷题的点点滴滴**  
 又开始重新刷题了：
 - ~~6月每天5道题：6/30~~
-- 7月每天复习5道题加每日一题：更改为每天5道题：4/16
+- 7月每天复习5道题加每日一题：更改为每天5道题：5/17
 - 8月每天一份虚拟竞赛  
 **对于经典算法必须详细地记录算法步骤**
 **总题量：527**
@@ -102,7 +102,7 @@
 62. [花括号展开](/basical/string/code/braceexpansionII.md)
 63. [执行操作后字典序最小的字符串](/basical/string/code/findlexsmalleststring.md) 
 64. [统计只差一个字符的子串数目](/basical/string/code/countsubstring.md)
-65. [最短公共超序列](/basical/string/code/shortestcommonsupersequences.md)
+65. [最短公共超序列](/basical/string/code/shortestcommonsupersequences.md) review[1]
 66. [隐藏个人信息](/basical/string/code/maskPII.md)
 67. [段式回文](/basical/string/code/longestdecomposition.md)
 68. [驼峰式匹配](/basical/string/code/camelmatch.md)
