@@ -4,7 +4,7 @@
 - 7月每天复习5道题加每日一题：更改为每天5道题：5/17
 - 8月每天一份虚拟竞赛  
 **对于经典算法必须详细地记录算法步骤**
-**总题量：527**
+**总题量：528**
 # 分类  
 * [基本类](#basical)  
 * [基本数据结构](#basical_data_structure)  
@@ -215,6 +215,7 @@
 91. [漂亮数组](/basical/array/code/beautifulArray.md)
 92. [数组的均值分割](/basical/array/code/splitarraysameaverage.md)
 93. [数组的最大美丽值](/basical/array/code/maximumbeauty.md)
+94. [包含每个查询的最小区间](/basical/array/code/minintervals.md)
 ### sort
 1. [归并排序](/basical/sort/code/mergesort.md)  
 2. [堆排序](/basical/sort/code/heapsort.md)  

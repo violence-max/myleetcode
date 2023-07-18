@@ -1,6 +1,6 @@
 题目描述：
 
-![image](/basical/array/code/maximumbeauty.md)
+![image](/basical/array/image/image93.png)
 
 解决过程：
 
