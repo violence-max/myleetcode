@@ -4,7 +4,7 @@
 - 7月每天复习5道题加每日一题：更改为每天5道题：6/18
 - 8月每天一份虚拟竞赛  
 **对于经典算法必须详细地记录算法步骤**
-**总题量：531**
+**总题量：532**
 # 分类  
 * [基本类](#basical)  
 * [基本数据结构](#basical_data_structure)  
@@ -297,6 +297,7 @@
 3. [特殊元素平方和](/basical/simulation/code/sumofsquares.md)
 4. [字符串相加](/basical/simulation/code/addstrings.md)
 5. [使用服务器处理任务](/basical/simulation/code/assgintasks.md)
+6. [模拟行走机器人](/basical/simulation/code/robotsim.md)
 ## basical_data_structure  
 * [栈和队列](#stackandquere)  
 * [二叉树](#binary_tree)
