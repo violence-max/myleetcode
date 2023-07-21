@@ -4,7 +4,7 @@
 - 7月每天复习5道题加每日一题：更改为每天5道题：6/18
 - 8月每天一份虚拟竞赛  
 **对于经典算法必须详细地记录算法步骤**
-**总题量：535**
+**总题量：536**
 # 分类  
 * [基本类](#basical)  
 * [基本数据结构](#basical_data_structure)  
@@ -292,6 +292,7 @@
 49. [和等于目标值的质数对](/basical/IQ/code/findprimepairs.md)
 50. [K件物品的最大和](/basical/IQ/code/kitemswithmaxnumsum.md)
 51. [最小面积矩形II](/basical/IQ/code/minareafrect.md)
+53. [数组元素最小的非零乘积](/basical/IQ/code/minnonzeroproduct.md)
 ### simulation
 1. [过桥时间](/basical/simulation/code/findcrossingtime.md)
 2. [交替数字和](/basical/simulation/code/alternativedigitsum.md)
