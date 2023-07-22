@@ -1,10 +1,10 @@
 **记录在leetcode上刷题的点点滴滴**  
 又开始重新刷题了：
 - ~~6月每天5道题：6/30~~
-- 7月每天复习5道题加每日一题：更改为每天5道题：6/18
+- 7月每天复习5道题加每日一题：更改为每天5道题：7/22
 - 8月每天一份虚拟竞赛  
 **对于经典算法必须详细地记录算法步骤**
-**总题量：540**
+**总题量：541**
 # 分类  
 * [基本类](#basical)  
 * [基本数据结构](#basical_data_structure)  
@@ -295,6 +295,7 @@
 51. [最小面积矩形II](/basical/IQ/code/minareafrect.md)
 52. [基于陈述统计最多好人数](/basical/IQ/code/maximumgood.md)
 53. [数组元素最小的非零乘积](/basical/IQ/code/minnonzeroproduct.md)
+54. [黑格子的数目](/basical/IQ/code/countblackblacks.md)
 ### simulation
 1. [过桥时间](/basical/simulation/code/findcrossingtime.md)
 2. [交替数字和](/basical/simulation/code/alternativedigitsum.md)
