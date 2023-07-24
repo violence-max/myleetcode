@@ -4,7 +4,7 @@
 - 7月每天复习5道题加每日一题：更改为每天5道题：8/24
 - 8月每天一份虚拟竞赛  
 **对于经典算法必须详细地记录算法步骤**
-**总题量：549**
+**总题量：550**
 # 分类  
 * [基本类](#basical)  
 * [基本数据结构](#basical_data_structure)  
@@ -540,6 +540,7 @@
 79. [将字符串分割为最少的美丽字符串](/algorithmn/dynamic_programming/code/minimumbeautifulsubstring.md)
 80. [访问数组中的位置使分数最大](/algorithmn/dynamic_programming/code/maxscorec109.md)
 81. [将一个数字表示成幂的数字和的方案数](/algorithmn/dynamic_programming/code/numberofways.md)
+82. [达到末尾下标所需的最大条约次数](/algorithmn/dynamic_programming/code/maximumjumps.md)
 ### traceback
 1.  [组合](/algorithmn/tracebak/code/combine.md)  
 2.  [组合总和](/algorithmn/tracebak/code/combinesum.md)  
