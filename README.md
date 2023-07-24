@@ -4,7 +4,7 @@
 - 7月每天复习5道题加每日一题：更改为每天5道题：7/22
 - 8月每天一份虚拟竞赛  
 **对于经典算法必须详细地记录算法步骤**
-**总题量：542**
+**总题量：543**
 # 分类  
 * [基本类](#basical)  
 * [基本数据结构](#basical_data_structure)  
@@ -590,5 +590,6 @@
 22. [你可以工作的最大周数](/algorithmn/greed/code/numberofweeks.md)
 23. [拆分成最多数目的正偶数之和](/algorithmn/greed/code/maximumevensplit.md)
 24. [需要教语言的最少人数](/algorithmn/greed/code/minimumteachings.md)
+25. [合并后数组中的最大元素](/algorithmn/greed/code/maxarrayvalue.md)
 ## Redo
 - [ ] string.63
