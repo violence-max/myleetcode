@@ -1,10 +1,10 @@
 **记录在leetcode上刷题的点点滴滴**  
 又开始重新刷题了：
 - ~~6月每天5道题：6/30~~
-- 7月每天复习5道题加每日一题：更改为每天5道题：7/22
+- 7月每天复习5道题加每日一题：更改为每天5道题：8/24
 - 8月每天一份虚拟竞赛  
 **对于经典算法必须详细地记录算法步骤**
-**总题量：544**
+**总题量：545**
 # 分类  
 * [基本类](#basical)  
 * [基本数据结构](#basical_data_structure)  
@@ -405,6 +405,7 @@
 60. [从先序遍历还原二叉树](/basicaldatastructure/binary_tree/code/recoverfrompreorder.md)
 61. [从二叉树一个节点到另一个节点的每一步](/basicaldatastructure/binary_tree/code/getdirectioins.md)
 62. [在二叉树中分配硬币](/basicaldatastructure/binary_tree/code/distributecoins.md)
+63. [树中可以形成回文的路径数](/basicaldatastructure/binary_tree/code/countpalinedromepaths.md)
 ### linkedlist
 1.  [移除链表元素](/basicaldatastructure/linkedlist/code/removeelementsoflinkedlist.md)  
 2.  [设计链表](/basicaldatastructure/linkedlist/code/designlinkedlist.md)  
