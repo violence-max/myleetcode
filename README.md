@@ -4,7 +4,7 @@
 - 7月每天复习5道题加每日一题：更改为每天5道题：9/24
 - 8月每天一份虚拟竞赛  
 **对于经典算法必须详细地记录算法步骤**
-**总题量：553**
+**总题量：554**
 # 分类  
 * [基本类](#basical)  
 * [基本数据结构](#basical_data_structure)  
@@ -311,6 +311,7 @@
 9.  [长度递增组的最大数目](/basical/simulation/code/maxincreasinggroups.md)
 10. [检查好数组](/basical/simulation/code/isgood.md)
 11. [将数组和减半的最少操作](/basical/simulation/code/halvearray.md)
+12. [宝石与石头](/basical/simulation/code/numjewlesinstones.md)
 ## basical_data_structure  
 * [栈和队列](#stackandquere)  
 * [二叉树](#binary_tree)
