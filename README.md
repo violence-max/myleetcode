@@ -1,10 +1,10 @@
 **记录在leetcode上刷题的点点滴滴**  
 又开始重新刷题了：
 - ~~6月每天5道题：6/30~~
-- 7月每天复习5道题加每日一题：更改为每天5道题：9/24
-- 8月每天一份虚拟竞赛  
+- 7月每天复习5道题加每日一题：更改为每天5道题：9/31
+- 8月每天一份虚拟竞赛  (想屁吃)
 **对于经典算法必须详细地记录算法步骤**
-**总题量：559**
+**总题量：560**
 # 分类  
 * [基本类](#basical)  
 * [基本数据结构](#basical_data_structure)  
@@ -549,6 +549,7 @@
 82. [达到末尾下标所需的最大条约次数](/algorithmn/dynamic_programming/code/maximumjumps.md)
 83. [构造最长非递减子数组](/algorithmn/dynamic_programming/code/maxnondecreasinglength.md)
 84. [并行课程III](/algorithmn/dynamic_programming/code/minimumtime.md)
+85. [3n块披萨](/algorithmn/dynamic_programming/code/maxsizeslices.md)
 ### traceback
 1.  [组合](/algorithmn/tracebak/code/combine.md)  
 2.  [组合总和](/algorithmn/tracebak/code/combinesum.md)  
