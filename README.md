@@ -4,7 +4,7 @@
 - 7月每天复习5道题加每日一题：更改为每天5道题：9/31
 - 8月每天一份虚拟竞赛  (想屁吃)
 **对于经典算法必须详细地记录算法步骤**
-**总题量：561**
+**总题量：562**
 # 分类  
 * [基本类](#basical)  
 * [基本数据结构](#basical_data_structure)  
@@ -221,6 +221,7 @@
 95. [描述绘画结果](/basical/array/code/splitpaiting.md)
 96. [最长交替子序列](/basical/array/code/alternatingsubarray.md)
 97. [使数组中所有元素都等于零](/basical/array/code/checkarray.md)
+98. [找出最长等值子数组](/basical/array/code/longestequalsubarray.md)
 ### sort
 1. [归并排序](/basical/sort/code/mergesort.md)  
 2. [堆排序](/basical/sort/code/heapsort.md)  
