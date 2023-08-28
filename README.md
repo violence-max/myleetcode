@@ -4,7 +4,7 @@
 - 7月每天复习5道题加每日一题：更改为每天5道题：9/31
 - 8月每天一份虚拟竞赛  (想屁吃)
 **对于经典算法必须详细地记录算法步骤**
-**总题量：562**
+**总题量：563**
 # 分类  
 * [基本类](#basical)  
 * [基本数据结构](#basical_data_structure)  
@@ -552,6 +552,7 @@
 84. [并行课程III](/algorithmn/dynamic_programming/code/minimumtime.md)
 85. [3n块披萨](/algorithmn/dynamic_programming/code/maxsizeslices.md)
 86. [切披萨的方案数](/algorithmn/dynamic_programming/code/ways.md)
+87. [销售利润最大化](/algorithmn/dynamic_programming/code/maximumtheprofit.md)
 ### traceback
 1.  [组合](/algorithmn/tracebak/code/combine.md)  
 2.  [组合总和](/algorithmn/tracebak/code/combinesum.md)  
