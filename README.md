@@ -4,7 +4,7 @@
 - 7月每天复习5道题加每日一题：更改为每天5道题：9/31
 - 8月每天一份虚拟竞赛  (想屁吃)
 **对于经典算法必须详细地记录算法步骤**
-**总题量：572**
+**总题量：573**
 # 分类  
 * [基本类](#basical)  
 * [基本数据结构](#basical_data_structure)  
@@ -594,6 +594,7 @@
 29. [水域大小](/algorithmn/tracebak/code/pondsizes.md)
 30. [黑白翻转棋](/algorithmn/tracebak/code/flipchess.md)
 31. [金字塔转换矩阵](/algorithmn/tracebak/code/pyramidtransition.md)
+32. [不同路径III](/algorithmn/tracebak/code/uniquepathIII.md)
 ### greed
 1.  [分发饼干](/algorithmn/greed/code/distributebiscuit.md)  
 2.  [摆动序列](/algorithmn/greed/code/wigglemaxlength.md)  
