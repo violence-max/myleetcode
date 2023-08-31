@@ -4,7 +4,7 @@
 - 7月每天复习5道题加每日一题：更改为每天5道题：9/31
 - 8月每天一份虚拟竞赛  (想屁吃)
 **对于经典算法必须详细地记录算法步骤**
-**总题量：573**
+**总题量：574**
 # 分类  
 * [基本类](#basical)  
 * [基本数据结构](#basical_data_structure)  
@@ -320,6 +320,7 @@
 12. [宝石与石头](/basical/simulation/code/numjewlesinstones.md)
 13. [距离原点最远的点](/basical/simulation/code/furthestdistancefromorigin.md)
 14. [找出美丽数组的最小和](/basical/simulation/code/minimumpossiblesum.md)
+15. [删除注释](/basical/simulation/code/removecomment.md)
 ## basical_data_structure  
 * [栈和队列](#stackandquere)  
 * [二叉树](#binary_tree)
