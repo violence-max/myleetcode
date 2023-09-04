@@ -4,7 +4,7 @@
 - 7月每天复习5道题加每日一题：更改为每天5道题：9/31
 - 8月每天一份虚拟竞赛  (想屁吃)
 **对于经典算法必须详细地记录算法步骤**
-**总题量：584**
+**总题量：585**
 # 分类  
 * [基本类](#basical)  
 * [基本数据结构](#basical_data_structure)  
@@ -124,6 +124,7 @@
 83. [将字符串中的元音字母排序](/basical/string/code/solvevowels.md)
 84. [循环增长使字符串子序列等于另一个字符串](/basical/string/code/canmakesubsequence.md)
 85. [判断通过操作能否让字符串相等II](/basical/string/code/checkstrings.md)
+86. [统计一个字符串k子序列美丽值最大值](/basical/string/code/countsubsequencewithmaxbeauty.md)
 ### array  
 *    [总结](/conclusion/array.md)  
 1.   [二分查找](/basical/array/code/binarysearch.md)  
