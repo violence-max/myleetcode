@@ -230,6 +230,7 @@
 101. [英雄的力量](/basical/array/code/sumofpower.md)
 102. [使循环数组所有元素相等的最少秒数](/basical/array/code/minimumseconds.md)
 103. [最多可以摧毁的敌人城堡数目](/basical/array/code/captruefots.md)
+104. [修车的最少时间](/basical/array/code/repaircars.md)
 ### sort
 1. [归并排序](/basical/sort/code/mergesort.md)  
 2. [堆排序](/basical/sort/code/heapsort.md)  
