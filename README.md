@@ -4,7 +4,7 @@
 - 7月每天复习5道题加每日一题：更改为每天5道题：9/31
 - 8月每天一份虚拟竞赛  (想屁吃)
 **对于经典算法必须详细地记录算法步骤**
-**总题量：588**
+**总题量：589**
 # 分类  
 * [基本类](#basical)  
 * [基本数据结构](#basical_data_structure)  
@@ -257,6 +257,7 @@
 16. [到家的最少跳跃次数](/basical/gragh/code/minimumjumps.md)
 17. [一个图中连通三元组的最小数目](/basical/gragh/code/mintriodegree.md)
 18. [找出最安全路径](/basical/gragh/code/maximumsafenessfactor.md)
+19. [边权重均等查询](/basical/gragh/code/minoperationsqueries.md)
 ### IQ
 1.  [快乐数](/basical/IQ/code/happynumber.md)  
 2.  [整数反转](/basical/IQ/code/reverse.md)  
