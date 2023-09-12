@@ -4,7 +4,7 @@
 - 7月每天复习5道题加每日一题：更改为每天5道题：9/31
 - 8月每天一份虚拟竞赛  (想屁吃)
 **对于经典算法必须详细地记录算法步骤**
-**总题量：590**
+**总题量：591**
 # 分类  
 * [基本类](#basical)  
 * [基本数据结构](#basical_data_structure)  
@@ -484,6 +484,7 @@
 * [动态规划](#dynamic_programming)  
 * [回溯](#traceback)   
 * [贪心](#greed)  
+* [匹配](#match)
 ### dynamic_programming     
 1.  [最大子数组之和](/algorithmn//dynamic_programming/code/tmsofcsuba.md)  
 2.  [斐波那契数列](/algorithmn/greed/code/fib.md)  
@@ -640,5 +641,7 @@
 26. [使子序列的和等于目标的最少操作次数](/algorithmn/greed/code/minoperations.md)
 27. [子序列最大优雅度](/algorithmn/greed/code/findmaximumelegant.md)
 28. [课程表III](/algorithmn/greed/code/schedulecourses.md)
+### match
+1. [将石头分散到网格的最少移动次数](/algorithmn/match/code/minimummoves.md)
 ## Redo
 - [ ] string.63
