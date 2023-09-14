@@ -4,7 +4,7 @@
 - 7月每天复习5道题加每日一题：更改为每天5道题：9/31
 - 8月每天一份虚拟竞赛  (想屁吃)
 **对于经典算法必须详细地记录算法步骤**
-**总题量：593**
+**总题量：594**
 # 分类  
 * [基本类](#basical)  
 * [基本数据结构](#basical_data_structure)  
@@ -260,6 +260,7 @@
 19. [边权重均等查询](/basical/gragh/code/minoperationsqueries.md)
 20. [课程表IV](/basical/gragh/code/checkifprerequsite.md)
 21. [公交路线](/basical/gragh/code/numbusestodestination.md)
+22. [找到最终的安全状态](/basical/gragh/code/eventualsafenodes.md)
 ### IQ
 1.  [快乐数](/basical/IQ/code/happynumber.md)  
 2.  [整数反转](/basical/IQ/code/reverse.md)  
