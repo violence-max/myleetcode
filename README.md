@@ -4,7 +4,7 @@
 - 7月每天复习5道题加每日一题：更改为每天5道题：9/31
 - 8月每天一份虚拟竞赛  (想屁吃)
 **对于经典算法必须详细地记录算法步骤**
-**总题量：600**
+**总题量：601**
 # 分类  
 * [基本类](#basical)  
 * [基本数据结构](#basical_data_structure)  
@@ -235,6 +235,7 @@
 106. [最小化数组中的最大值](/basical/array/code/minimizearrayvalue.md)
 107. [最大得分](/basical/array/code/maxsum.md)
 108. [删除数对后的最小数组长度](/basical/array/code/minlengthafterremoval.md)
+109. [统计距离为k的点对](/basical/array/code/countpairs.md)
 ### sort
 1. [归并排序](/basical/sort/code/mergesort.md)  
 2. [堆排序](/basical/sort/code/heapsort.md)  
