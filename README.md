@@ -4,7 +4,7 @@
 - 7月每天复习5道题加每日一题：更改为每天5道题：9/31
 - 8月每天一份虚拟竞赛  (想屁吃)
 **对于经典算法必须详细地记录算法步骤**
-**总题量：605**
+**总题量：606**
 # 分类  
 * [基本类](#basical)  
 * [基本数据结构](#basical_data_structure)  
@@ -325,6 +325,7 @@
 55. [找出最大的可达数字](/basical/IQ/code/themaximumachiveablex.md)
 56. [不可能得到的最短骰子序列](/basical/IQ/code/shortestsequence.md)
 57. [最小分割和](/basical/IQ/code/splitnum.md)
+58. [只出现一次的数字III](/basical/IQ/code/singlenumber.md)
 ### simulation
 1.  [过桥时间](/basical/simulation/code/findcrossingtime.md)
 2.  [交替数字和](/basical/simulation/code/alternativedigitsum.md)
