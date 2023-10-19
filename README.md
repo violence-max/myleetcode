@@ -4,7 +4,7 @@
 - 7月每天复习5道题加每日一题：更改为每天5道题：9/31
 - 8月每天一份虚拟竞赛  (想屁吃)
 **对于经典算法必须详细地记录算法步骤**
-**总题量：608**
+**总题量：609**
 # 分类  
 * [基本类](#basical)  
 * [基本数据结构](#basical_data_structure)  
@@ -381,6 +381,7 @@
 29. [避免洪水泛滥](/basicaldatastructure/stackandquere/code/avoidflood.md)
 30. [满足不等式的最大值](/basicaldatastructure/stackandquere/code/findmaxvalueofequation.md)
 31. [可以到达的最远建筑](/basicaldatastructure/stackandquere/code/furthestbuilding.md)
+32. [美丽塔II](/basicaldatastructure/stackandquere/code/maximumsumofheights.md)
 ### binary_tree
 1.  [树的子结构](/basicaldatastructure/binary_tree/code/substructureoftree.md)  
 2.  [前序遍历](/basicaldatastructure/binary_tree/code/preordertraversal.md)  
