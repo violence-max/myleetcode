@@ -4,7 +4,7 @@
 - 7月每天复习5道题加每日一题：更改为每天5道题：9/31
 - 8月每天一份虚拟竞赛  (想屁吃)
 **对于经典算法必须详细地记录算法步骤**
-**总题量：615**
+**总题量：616**
 # 分类  
 * [基本类](#basical)  
 * [基本数据结构](#basical_data_structure)  
@@ -241,6 +241,7 @@
 112. [完全子集的最大元素和](/basical/array/code/maximumsum.md)
 113. [将数组分割成最多数目的子数组](/basical/array/code/maxsubarray.md)
 114. [无限数组的最短子数组](/basical/array/code/minsizesubarray.md)
+115. [对数组执行操作使平方和最大](/basical/array/code/maxsumII.md)
 ### sort
 1. [归并排序](/basical/sort/code/mergesort.md)  
 2. [堆排序](/basical/sort/code/heapsort.md)  
