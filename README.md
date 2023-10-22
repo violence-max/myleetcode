@@ -4,7 +4,7 @@
 - 7月每天复习5道题加每日一题：更改为每天5道题：9/31
 - 8月每天一份虚拟竞赛  (想屁吃)
 **对于经典算法必须详细地记录算法步骤**
-**总题量：616**
+**总题量：617**
 # 分类  
 * [基本类](#basical)  
 * [基本数据结构](#basical_data_structure)  
@@ -604,6 +604,7 @@
 94. [打家劫舍IV](/algorithmn/dynamic_programming/code/mincapability.md)
 95. [可以到达每一个节点的最少边反转次数](/algorithmn/dynamic_programming/code/minedgereversals.md)
 96. [执行操作使两个字符串相等](/algorithmn/dynamic_programming/code/minoperations.md)
+97. [最长相邻不相等子序列II](/algorithmn/dynamic_programming/code/getwordsinlongestsubsequence.md)
 ### traceback
 1.  [组合](/algorithmn/tracebak/code/combine.md)  
 2.  [组合总和](/algorithmn/tracebak/code/combinesum.md)  
