@@ -4,7 +4,7 @@
 - 7月每天复习5道题加每日一题：更改为每天5道题：9/31
 - 8月每天一份虚拟竞赛  (想屁吃)
 **对于经典算法必须详细地记录算法步骤**
-**总题量：628**
+**总题量：629**
 # 分类  
 * [基本类](#basical)  
 * [基本数据结构](#basical_data_structure)  
@@ -337,6 +337,7 @@
 58. [只出现一次的数字III](/basical/IQ/code/singlenumber.md)
 59. [满足三条件之一需改变的最少字符数](/basical/IQ/code/mincharacters.md)
 60. [字符串转化](/basical/IQ/code/canconvert.md)
+61. [切割后面积最大的蛋糕](/basical/IQ/code/maxarea.md)
 ### simulation
 1.  [过桥时间](/basical/simulation/code/findcrossingtime.md)
 2.  [交替数字和](/basical/simulation/code/alternativedigitsum.md)
