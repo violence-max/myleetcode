@@ -2,7 +2,7 @@
 剩余需要补地周赛数量：25
 需要补充的知识点：线段树
 **对于经典算法必须详细地记录算法步骤**
-**总题量：632**
+**总题量：633**
 # 分类  
 * [基本类](#basical)  
 * [基本数据结构](#basical_data_structure)  
@@ -617,6 +617,7 @@
 101. [跳跃游戏IV](/algorithmn/dynamic_programming/code/maxresult.md)
 102. [矩阵中和能被k整除的路径](/algorithmn/dynamic_programming/code/numberofpath.md)
 103. [不相交的握手](/algorithmn/dynamic_programming/code/numberofwaysII.md)
+104. [使数组变美的最小增量运算数](/algorithmn/dynamic_programming/code/minincresementoperations.md)
 ### traceback
 1.  [组合](/algorithmn/tracebak/code/combine.md)  
 2.  [组合总和](/algorithmn/tracebak/code/combinesum.md)  
