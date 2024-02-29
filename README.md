@@ -2,7 +2,7 @@
 剩余需要补地周赛数量：25
 需要补充的知识点：线段树
 **对于经典算法必须详细地记录算法步骤**
-**总题量：636**
+**总题量：637**
 # 分类  
 * [基本类](#basical)  
 * [基本数据结构](#basical_data_structure)  
@@ -464,6 +464,7 @@
 68. [查询树中环的长度](/basicaldatastructure/binary_tree/code/cyclelengthqueries.md)
 69. [二叉搜索树的最近公共祖先](/basicaldatastructure/binary_tree/code/lowestcommonancestorII.md)
 70. [使二叉树所有路径值相等的最小代价](/basicaldatastructure/binary_tree/code/minincrement.md)
+71. [在树上执行操作以后得到的最大分数](/basicaldatastructure/binary_tree/code/maximumscoreafteroperation.md)
 ### linkedlist
 1.  [移除链表元素](/basicaldatastructure/linkedlist/code/removeelementsoflinkedlist.md)  
 2.  [设计链表](/basicaldatastructure/linkedlist/code/designlinkedlist.md)  
