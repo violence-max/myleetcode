@@ -1,8 +1,8 @@
 **记录在leetcode上刷题的点点滴滴**  
-剩余需要补地周赛数量：25
-需要补充的知识点：线段树
+剩余需要补地周赛数量：24
+需要补的题目：2926、2916
 **对于经典算法必须详细地记录算法步骤**
-**总题量：637**
+**总题量：638**
 # 分类  
 * [基本类](#basical)  
 * [基本数据结构](#basical_data_structure)  
@@ -622,6 +622,7 @@
 103. [不相交的握手](/algorithmn/dynamic_programming/code/numberofwaysII.md)
 104. [使数组变美的最小增量运算数](/algorithmn/dynamic_programming/code/minincresementoperations.md)
 105. [收集所有金币可以获得的最大积分](/algorithmn/dynamic_programming/code/maximumpoints.md)
+106. [检查数组是否存在划分](/algorithmn/dynamic_programming/code/validpartition.md)
 ### traceback
 1.  [组合](/algorithmn/tracebak/code/combine.md)  
 2.  [组合总和](/algorithmn/tracebak/code/combinesum.md)  
