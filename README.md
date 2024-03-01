@@ -1,8 +1,8 @@
 **记录在leetcode上刷题的点点滴滴**  
-剩余需要补地周赛数量：24
+剩余需要补地周赛数量：23
 需要补的题目：2926、2916
 **对于经典算法必须详细地记录算法步骤**
-**总题量：639**
+**总题量：640**
 # 分类  
 * [基本类](#basical)  
 * [基本数据结构](#basical_data_structure)  
@@ -250,6 +250,7 @@
 3. [快速排序](/basical/sort/code/quicksort.md)  
 4. [最大间距](/basical/sort/code/maximumgap.md)
 5. [按身高排序](/basical/sort/code/sortpeople.md)
+6. [购买物品的最大开销](/basical/sort/code/maxspending.md)
 ### gragh  
 1.  [检查边长度限制的路径是否存在](/basical/gragh/code/distancelimitedpathexit.md)  
 2.  [寻找图中是否存在路径](/basical/gragh/code/validpath.md)  
