@@ -2,7 +2,7 @@
 剩余需要补地周赛数量：22
 需要补的题目：2926、2916
 **对于经典算法必须详细地记录算法步骤**
-**总题量：644**
+**总题量：645**
 # 分类  
 * [基本类](#basical)  
 * [基本数据结构](#basical_data_structure)  
@@ -399,6 +399,7 @@
 30. [满足不等式的最大值](/basicaldatastructure/stackandquere/code/findmaxvalueofequation.md)
 31. [可以到达的最远建筑](/basicaldatastructure/stackandquere/code/furthestbuilding.md)
 32. [美丽塔II](/basicaldatastructure/stackandquere/code/maximumsumofheights.md)
+33. [找到Alice和Bob可以相遇的建筑](/basicaldatastructure/stackandquere/code/leftmostbuildingqueries.md)
 ### binary_tree
 1.  [树的子结构](/basicaldatastructure/binary_tree/code/substructureoftree.md)  
 2.  [前序遍历](/basicaldatastructure/binary_tree/code/preordertraversal.md)  
