@@ -2,7 +2,7 @@
 剩余需要补地周赛数量：23
 需要补的题目：2926、2916
 **对于经典算法必须详细地记录算法步骤**
-**总题量：641**
+**总题量：642**
 # 分类  
 * [基本类](#basical)  
 * [基本数据结构](#basical_data_structure)  
@@ -511,6 +511,7 @@
 12. [大餐计数](/basicaldatastructure/setandmap/code/countpairs.md)
 13. [判断一个数是否迷人](/basicaldatastructure/setandmap/code/isfascinating.md)
 14. [既不是最小值也不是最大值](/basicaldatastructure/setandmap/code/findnonminormax.md)
+15. [数组中两个数的最大异或值](/basicaldatastructure/setandmap/code/findmaxxor.md)
 ### trie
 1. [实现前缀树](/basicaldatastructure/trie/code/trie.md)
 2. [删除子文件夹](/basicaldatastructure/trie/code/removesubfolders.md)
