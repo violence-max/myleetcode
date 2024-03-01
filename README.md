@@ -2,7 +2,7 @@
 剩余需要补地周赛数量：22
 需要补的题目：2926、2916
 **对于经典算法必须详细地记录算法步骤**
-**总题量：643**
+**总题量：644**
 # 分类  
 * [基本类](#basical)  
 * [基本数据结构](#basical_data_structure)  
@@ -360,6 +360,7 @@
 15. [删除注释](/basical/simulation/code/removecomment.md)
 ### numbertheory
 1. [重新排列后包含指定子字符串的字符串数目](/basical/numbertheory/code/stringcount.md)
+2. [最大异或乘积](/basical/numbertheory/code/maximumxorproduct.md)
 ## basical_data_structure  
 * [栈和队列](#stackandquere)  
 * [二叉树](#binary_tree)
