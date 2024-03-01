@@ -1,8 +1,8 @@
 **记录在leetcode上刷题的点点滴滴**  
-剩余需要补地周赛数量：23
+剩余需要补地周赛数量：22
 需要补的题目：2926、2916
 **对于经典算法必须详细地记录算法步骤**
-**总题量：642**
+**总题量：643**
 # 分类  
 * [基本类](#basical)  
 * [基本数据结构](#basical_data_structure)  
@@ -517,6 +517,7 @@
 2. [删除子文件夹](/basicaldatastructure/trie/code/removesubfolders.md)
 3. [字符流](/basicaldatastructure/trie/code/streamchecker.md) review[1]
 4. [找到矩阵中的好子集](/basicaldatastructure/trie/code/goodsubsettobinarymatrix.md)
+5. [找出强数对的最大异或值II](/basicaldatastructure/trie/code/maximumstoragepairxor.md)
 ## algorithmn  
 * [动态规划](#dynamic_programming)  
 * [回溯](#traceback)   
