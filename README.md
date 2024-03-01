@@ -2,7 +2,7 @@
 剩余需要补地周赛数量：24
 需要补的题目：2926、2916
 **对于经典算法必须详细地记录算法步骤**
-**总题量：638**
+**总题量：639**
 # 分类  
 * [基本类](#basical)  
 * [基本数据结构](#basical_data_structure)  
@@ -16,6 +16,7 @@
 * [图论](#gragh)  
 * [智力](#IQ)  
 * [模拟](#simulation)
+* [数论](#numbertheory)
 ### matrixt  
 *   [总结](/conclusion/matrixt.md)  
 1.  [顺时针打印矩阵](/basical/matrix/clockwiseprintmatrix.md)  
@@ -355,6 +356,8 @@
 13. [距离原点最远的点](/basical/simulation/code/furthestdistancefromorigin.md)
 14. [找出美丽数组的最小和](/basical/simulation/code/minimumpossiblesum.md)
 15. [删除注释](/basical/simulation/code/removecomment.md)
+### numbertheory
+1. [重新排列后包含指定子字符串的字符串数目](/basical/numbertheory/code/stringcount.md)
 ## basical_data_structure  
 * [栈和队列](#stackandquere)  
 * [二叉树](#binary_tree)
