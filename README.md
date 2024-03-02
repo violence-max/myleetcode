@@ -2,7 +2,7 @@
 剩余需要补地周赛数量：22
 需要补的题目：2926、2916
 **对于经典算法必须详细地记录算法步骤**
-**总题量：646**
+**总题量：647**
 # 分类  
 * [基本类](#basical)  
 * [基本数据结构](#basical_data_structure)  
@@ -633,6 +633,7 @@
 104. [使数组变美的最小增量运算数](/algorithmn/dynamic_programming/code/minincresementoperations.md)
 105. [收集所有金币可以获得的最大积分](/algorithmn/dynamic_programming/code/maximumpoints.md)
 106. [检查数组是否存在划分](/algorithmn/dynamic_programming/code/validpartition.md)
+107. [购买水果需要的最少金币数](/algorithmn/dynamic_programming/code/minimumcoins.md)
 ### traceback
 1.  [组合](/algorithmn/tracebak/code/combine.md)  
 2.  [组合总和](/algorithmn/tracebak/code/combinesum.md)  
