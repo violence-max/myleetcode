@@ -2,7 +2,7 @@
 剩余需要补地周赛数量：22
 需要补的题目：2926、2916
 **对于经典算法必须详细地记录算法步骤**
-**总题量：645**
+**总题量：646**
 # 分类  
 * [基本类](#basical)  
 * [基本数据结构](#basical_data_structure)  
@@ -342,6 +342,7 @@
 61. [切割后面积最大的蛋糕](/basical/IQ/code/maxarea.md)
 62. [数组的最小相等和](/basical/IQ/code/minsum.md)
 63. [最大化数组末位元素的最少操作次数](/basical/IQ/code/minoperation.md)
+64. [最大化网格图中正方形空洞的面积](/basical/IQ/code/maximizesquareholearea.md)
 ### simulation
 1.  [过桥时间](/basical/simulation/code/findcrossingtime.md)
 2.  [交替数字和](/basical/simulation/code/alternativedigitsum.md)
