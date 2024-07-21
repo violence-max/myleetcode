@@ -1,8 +1,6 @@
 **记录在leetcode上刷题的点点滴滴**  
-剩余需要补地周赛数量：22
-需要补的题目：2926、2916
 **对于经典算法必须详细地记录算法步骤**
-**总题量：648**
+**总题量：649**
 # 分类  
 * [基本类](#basical)  
 * [基本数据结构](#basical_data_structure)  
@@ -244,6 +242,7 @@
 115. [对数组执行操作使平方和最大](/basical/array/code/maxsumII.md)
 116. [每种字符至少取k个](/basical/array/code/takecharacters.md)
 117. [找出数组中的k-or值](/basical/array/code/findkor.md)
+118. [删除一次得到子数组的最大和](/basical/array/code/maxsumII.md)
 ### sort
 1. [归并排序](/basical/sort/code/mergesort.md)  
 2. [堆排序](/basical/sort/code/heapsort.md)  
