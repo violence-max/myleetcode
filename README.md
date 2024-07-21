@@ -277,6 +277,7 @@
 24. [统计树中的合法路径数目](/basical/gragh/code/countpath.md)
 25. [可以被k整除的连通块的最大数目](/basical/gragh/code/maxdivisiblecomponents.md)
 26. [有向图访问计数](/basical/gragh/code/countvisitednodes.md)
+27. [账户合并](/basical/gragh/code/accountsmerge.md)
 ### IQ
 1.  [快乐数](/basical/IQ/code/happynumber.md)  
 2.  [整数反转](/basical/IQ/code/reverse.md)  
