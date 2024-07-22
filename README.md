@@ -1,6 +1,6 @@
 **记录在leetcode上刷题的点点滴滴**  
 **对于经典算法必须详细地记录算法步骤**
-**总题量：651**
+**总题量：652**
 # 分类  
 * [基本类](#basical)  
 * [基本数据结构](#basical_data_structure)  
@@ -280,6 +280,7 @@
 27. [账户合并](/basical/gragh/code/accountsmerge.md)
 28. [访问消失节点的最小时间](/basical/gragh/code/minimumtime.md)
 29. [关闭分布的可行集合数目](/basical/gragh/code/numberofsets.md)
+30. [引爆最多的炸弹](/basical/gragh/code/maximumdetonation.md)
 ### IQ
 1.  [快乐数](/basical/IQ/code/happynumber.md)  
 2.  [整数反转](/basical/IQ/code/reverse.md)  
