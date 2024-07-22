@@ -1,6 +1,6 @@
 **记录在leetcode上刷题的点点滴滴**  
 **对于经典算法必须详细地记录算法步骤**
-**总题量：653**
+**总题量：654**
 # 分类  
 * [基本类](#basical)  
 * [基本数据结构](#basical_data_structure)  
@@ -243,6 +243,7 @@
 116. [每种字符至少取k个](/basical/array/code/takecharacters.md)
 117. [找出数组中的k-or值](/basical/array/code/findkor.md)
 118. [删除一次得到子数组的最大和](/basical/array/code/maxsumII.md)
+119. [使数组等于目标数组的最少操作次数](/basical/array/code/minimumoperationsII.md)
 ### sort
 1. [归并排序](/basical/sort/code/mergesort.md)  
 2. [堆排序](/basical/sort/code/heapsort.md)  
