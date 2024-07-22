@@ -1,6 +1,6 @@
 **记录在leetcode上刷题的点点滴滴**  
 **对于经典算法必须详细地记录算法步骤**
-**总题量：652**
+**总题量：653**
 # 分类  
 * [基本类](#basical)  
 * [基本数据结构](#basical_data_structure)  
@@ -346,6 +346,7 @@
 62. [数组的最小相等和](/basical/IQ/code/minsum.md)
 63. [最大化数组末位元素的最少操作次数](/basical/IQ/code/minoperation.md)
 64. [最大化网格图中正方形空洞的面积](/basical/IQ/code/maximizesquareholearea.md)
+65. [字符串援引游戏](/basical/IQ/code/doesalicewin.md)
 ### simulation
 1.  [过桥时间](/basical/simulation/code/findcrossingtime.md)
 2.  [交替数字和](/basical/simulation/code/alternativedigitsum.md)
